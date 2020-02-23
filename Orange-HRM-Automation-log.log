@@ -1,0 +1,6 @@
+2020-02-23 20:35:05 INFO  TestBase:26 - Initiate Browser
+2020-02-23 20:35:22 INFO  TestBase:32 - Browser Initiated
+2020-02-23 20:35:22 INFO  TestBase:42 - Test name: forgotpassword
+2020-02-23 20:35:22 INFO  TestBase:54 - Executed test case name:forgotpassword Execution Results : [TestResult name=forgotpassword status=FAILURE method=ForgotPasswordTest.forgotpassword()[pri:1, instance:com.abi.test.pageobject.Tests.ForgotPasswordTest@13fee20c] output={null}]
+2020-02-23 20:35:22 INFO  TestBase:47 - Closing Browser
+2020-02-23 20:35:24 INFO  TestBase:49 - Browser Closed
