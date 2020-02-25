@@ -9,13 +9,15 @@ import org.openqa.selenium.By;
 
 public class LoginPage extends PageBase {
     private static final Logger LOGGER= Logger.getLogger(LoginPage.class);
-    private static By orangeHRM= By.xpath("//span[text()='( Username : Admin | Password : admin123 )']");
+    private static By orangeHRM= By.xpath("//img[@src=\"/webres_5df488ddad8b23.30204013/themes/default/images/login/logo.png\"]");
     private static By Username = By.id("txtUsername");
     private static By Password =By.id("txtPassword");
     private static By Subbmit =By.id("btnLogin");
-    private static By forgotPassword =By.xpath("//a[@href='/index.php/auth/requestPasswordResetCode']");
+   private static By forgotPassword =By.xpath("//a[@href=\"/index.php/auth/requestPasswordResetCode\"]");
+ //  private static By forgotPassword =By.xpath("//*[@id=\"forgotPasswordLink\"]/a");
+   // private static By forgotPassword =By.linkText("Forgot your password?");
     private static By InvalidMessage =By.id("spanMessage");
-    private static By EmptyMessage =By.xpath("//span[text()='Username cannot be empty']");
+    private static By EmptyMessage =By.xpath("//*[text()=\"Username cannot be empty\"]");
 
 
     public static boolean IsDisplayLoginPage(){
