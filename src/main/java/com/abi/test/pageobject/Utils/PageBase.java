@@ -1,5 +1,6 @@
 package com.abi.test.pageobject.Utils;
 
+import com.abi.test.pageobject.Pages.Login.LoginPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -145,6 +146,12 @@ public class PageBase {
     public static void waiTillVisible(By element ,int seconds) {
         WebDriverWait wait = new WebDriverWait(getDriver(), 10);
         wait.until(ExpectedConditions.visibilityOfElementLocated(element));
+    }
+
+    public static void Login(String username , String Password){
+        LoginPage.InputUserName(username);
+        LoginPage.InputPasswordName(Password);
+        LoginPage.Clicksubmit();
     }
 
 }

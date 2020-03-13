@@ -21,6 +21,8 @@ public class TestBase {
         System.out.println("Test Running " + this.getClass().toString());
     }
 
+
+
     @BeforeMethod(alwaysRun = true)
     public void loadBrowser() {
         LOGGER.info("Initiate Browser");
@@ -45,7 +47,7 @@ public class TestBase {
     @AfterMethod(alwaysRun = true)
     public void closeBrowser() {
         LOGGER.info("Closing Browser");
-        //PageBase.closeDriver();
+       // PageBase.closeDriver();
         LOGGER.info("Browser Closed");
     }
 

@@ -1,0 +1,471 @@
+2020-02-26 15:57:49 INFO  TestBase:26 - Initiate Browser
+2020-02-26 15:58:05 INFO  TestBase:32 - Browser Initiated
+2020-02-26 15:58:05 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-26 15:58:07 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-26 15:58:07 INFO  TestBase:47 - Closing Browser
+2020-02-26 15:58:07 INFO  TestBase:49 - Browser Closed
+2020-02-26 20:06:07 INFO  TestBase:26 - Initiate Browser
+2020-02-26 20:06:31 INFO  TestBase:32 - Browser Initiated
+2020-02-26 20:06:31 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-26 20:06:42 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-26 20:06:42 INFO  TestBase:47 - Closing Browser
+2020-02-26 20:06:42 INFO  TestBase:49 - Browser Closed
+2020-02-26 20:07:01 INFO  TestBase:26 - Initiate Browser
+2020-02-26 20:07:25 INFO  TestBase:32 - Browser Initiated
+2020-02-26 20:07:25 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-26 20:11:28 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@7adda9cc] output={null}]
+2020-02-26 20:11:28 INFO  TestBase:47 - Closing Browser
+2020-02-26 20:11:28 INFO  TestBase:49 - Browser Closed
+2020-02-26 20:11:35 INFO  TestBase:26 - Initiate Browser
+2020-02-26 20:12:05 INFO  TestBase:32 - Browser Initiated
+2020-02-26 20:12:05 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-26 20:12:10 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@7adda9cc] output={null}]
+2020-02-26 20:12:10 INFO  TestBase:47 - Closing Browser
+2020-02-26 20:12:10 INFO  TestBase:49 - Browser Closed
+2020-02-26 20:16:31 INFO  TestBase:26 - Initiate Browser
+2020-02-26 20:16:54 INFO  TestBase:32 - Browser Initiated
+2020-02-26 20:16:54 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-26 20:17:04 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-26 20:17:04 INFO  TestBase:47 - Closing Browser
+2020-02-26 20:17:04 INFO  TestBase:49 - Browser Closed
+2020-02-26 20:19:36 INFO  TestBase:26 - Initiate Browser
+2020-02-26 20:20:08 INFO  TestBase:32 - Browser Initiated
+2020-02-26 20:20:08 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-26 20:20:18 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-26 20:20:18 INFO  TestBase:47 - Closing Browser
+2020-02-26 20:20:18 INFO  TestBase:49 - Browser Closed
+2020-02-26 20:50:58 INFO  TestBase:26 - Initiate Browser
+2020-02-26 20:51:16 INFO  TestBase:32 - Browser Initiated
+2020-02-26 20:51:16 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-26 20:51:30 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@13fee20c] output={null}]
+2020-02-26 20:51:30 INFO  TestBase:47 - Closing Browser
+2020-02-26 20:51:30 INFO  TestBase:49 - Browser Closed
+2020-02-27 13:41:34 INFO  TestBase:26 - Initiate Browser
+2020-02-27 13:41:50 INFO  TestBase:32 - Browser Initiated
+2020-02-27 13:41:50 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 13:41:56 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@42d3bd8b] output={null}]
+2020-02-27 13:41:56 INFO  TestBase:47 - Closing Browser
+2020-02-27 13:41:56 INFO  TestBase:49 - Browser Closed
+2020-02-27 13:43:58 INFO  TestBase:26 - Initiate Browser
+2020-02-27 13:44:14 INFO  TestBase:32 - Browser Initiated
+2020-02-27 13:44:14 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 13:44:23 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@13fee20c] output={null}]
+2020-02-27 13:44:23 INFO  TestBase:47 - Closing Browser
+2020-02-27 13:44:23 INFO  TestBase:49 - Browser Closed
+2020-02-27 13:45:29 INFO  TestBase:26 - Initiate Browser
+2020-02-27 13:45:45 INFO  TestBase:32 - Browser Initiated
+2020-02-27 13:45:45 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 13:45:51 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-27 13:45:51 INFO  TestBase:47 - Closing Browser
+2020-02-27 13:45:51 INFO  TestBase:49 - Browser Closed
+2020-02-27 13:52:36 INFO  TestBase:26 - Initiate Browser
+2020-02-27 13:52:51 INFO  TestBase:32 - Browser Initiated
+2020-02-27 13:52:51 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 13:52:57 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-27 13:52:57 INFO  TestBase:47 - Closing Browser
+2020-02-27 13:52:57 INFO  TestBase:49 - Browser Closed
+2020-02-27 13:55:02 INFO  TestBase:26 - Initiate Browser
+2020-02-27 13:55:17 INFO  TestBase:32 - Browser Initiated
+2020-02-27 13:55:17 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 13:55:29 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-27 13:55:29 INFO  TestBase:47 - Closing Browser
+2020-02-27 13:55:29 INFO  TestBase:49 - Browser Closed
+2020-02-27 13:58:18 INFO  TestBase:26 - Initiate Browser
+2020-02-27 13:58:34 INFO  TestBase:32 - Browser Initiated
+2020-02-27 13:58:34 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 13:58:36 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-27 13:58:36 INFO  TestBase:47 - Closing Browser
+2020-02-27 13:58:36 INFO  TestBase:49 - Browser Closed
+2020-02-27 13:59:15 INFO  TestBase:26 - Initiate Browser
+2020-02-27 13:59:31 INFO  TestBase:32 - Browser Initiated
+2020-02-27 13:59:31 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 13:59:50 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@13fee20c] output={null}]
+2020-02-27 13:59:50 INFO  TestBase:47 - Closing Browser
+2020-02-27 13:59:50 INFO  TestBase:49 - Browser Closed
+2020-02-27 14:02:19 INFO  TestBase:26 - Initiate Browser
+2020-02-27 14:02:35 INFO  TestBase:32 - Browser Initiated
+2020-02-27 14:02:35 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 14:02:48 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-27 14:02:48 INFO  TestBase:47 - Closing Browser
+2020-02-27 14:02:48 INFO  TestBase:49 - Browser Closed
+2020-02-27 14:05:07 INFO  TestBase:26 - Initiate Browser
+2020-02-27 14:05:22 INFO  TestBase:32 - Browser Initiated
+2020-02-27 14:05:22 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 14:05:32 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@13fee20c] output={null}]
+2020-02-27 14:05:32 INFO  TestBase:47 - Closing Browser
+2020-02-27 14:05:32 INFO  TestBase:49 - Browser Closed
+2020-02-27 14:07:55 INFO  TestBase:26 - Initiate Browser
+2020-02-27 14:08:11 INFO  TestBase:32 - Browser Initiated
+2020-02-27 14:08:11 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 14:08:25 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@13fee20c] output={null}]
+2020-02-27 14:08:25 INFO  TestBase:47 - Closing Browser
+2020-02-27 14:08:25 INFO  TestBase:49 - Browser Closed
+2020-02-27 14:16:16 INFO  TestBase:26 - Initiate Browser
+2020-02-27 14:16:32 INFO  TestBase:32 - Browser Initiated
+2020-02-27 14:16:32 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 14:16:43 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-27 14:16:43 INFO  TestBase:47 - Closing Browser
+2020-02-27 14:16:43 INFO  TestBase:49 - Browser Closed
+2020-02-27 14:17:46 INFO  TestBase:26 - Initiate Browser
+2020-02-27 14:18:02 INFO  TestBase:32 - Browser Initiated
+2020-02-27 14:18:02 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 14:18:13 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-27 14:18:13 INFO  TestBase:47 - Closing Browser
+2020-02-27 14:18:13 INFO  TestBase:49 - Browser Closed
+2020-02-27 14:19:05 INFO  TestBase:26 - Initiate Browser
+2020-02-27 14:19:21 INFO  TestBase:32 - Browser Initiated
+2020-02-27 14:19:21 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 14:19:36 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-27 14:19:36 INFO  TestBase:47 - Closing Browser
+2020-02-27 14:19:36 INFO  TestBase:49 - Browser Closed
+2020-02-27 14:23:57 INFO  TestBase:26 - Initiate Browser
+2020-02-27 14:24:14 INFO  TestBase:32 - Browser Initiated
+2020-02-27 14:24:14 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 14:24:30 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@13fee20c] output={null}]
+2020-02-27 14:24:30 INFO  TestBase:47 - Closing Browser
+2020-02-27 14:24:30 INFO  TestBase:49 - Browser Closed
+2020-02-27 14:38:33 INFO  TestBase:26 - Initiate Browser
+2020-02-27 14:38:51 INFO  TestBase:32 - Browser Initiated
+2020-02-27 14:38:51 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 14:39:05 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@5f2050f6] output={null}]
+2020-02-27 14:39:05 INFO  TestBase:47 - Closing Browser
+2020-02-27 14:39:05 INFO  TestBase:49 - Browser Closed
+2020-02-27 14:41:05 INFO  TestBase:26 - Initiate Browser
+2020-02-27 14:41:21 INFO  TestBase:32 - Browser Initiated
+2020-02-27 14:41:21 INFO  TestBase:42 - Test name: Assign_Leave
+2020-02-27 14:41:35 INFO  TestBase:54 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@26ba2a48] output={null}]
+2020-02-27 14:41:35 INFO  TestBase:47 - Closing Browser
+2020-02-27 14:41:35 INFO  TestBase:49 - Browser Closed
+2020-02-27 20:44:36 INFO  TestBase:28 - Initiate Browser
+2020-02-27 20:44:58 INFO  TestBase:34 - Browser Initiated
+2020-02-27 20:44:58 INFO  TestBase:44 - Test name: Assign_Leave
+2020-02-27 20:45:09 INFO  TestBase:56 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@13fee20c] output={null}]
+2020-02-27 20:45:09 INFO  TestBase:49 - Closing Browser
+2020-02-27 20:45:11 INFO  TestBase:51 - Browser Closed
+2020-02-27 20:49:18 INFO  TestBase:28 - Initiate Browser
+2020-02-27 20:49:33 INFO  TestBase:34 - Browser Initiated
+2020-02-27 20:49:33 INFO  TestBase:44 - Test name: Assign_Leave
+2020-02-27 20:49:45 INFO  TestBase:56 - Executed test case name:Assign_Leave Execution Results : [TestResult name=Assign_Leave status=FAILURE method=DashBoardTest.Assign_Leave()[pri:1, instance:com.abi.test.pageobject.Tests.DashBoardTest@13fee20c] output={null}]
+2020-02-27 20:49:45 INFO  TestBase:49 - Closing Browser
+2020-02-27 20:49:46 INFO  TestBase:51 - Browser Closed
+2020-02-27 20:57:45 INFO  TestBase:28 - Initiate Browser
+2020-02-27 20:58:00 INFO  TestBase:34 - Browser Initiated
+2020-02-27 20:58:00 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 20:58:03 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:0, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-27 20:58:03 INFO  TestBase:49 - Closing Browser
+2020-02-27 20:58:04 INFO  TestBase:51 - Browser Closed
+2020-02-27 21:18:02 INFO  TestBase:28 - Initiate Browser
+2020-02-27 21:18:46 INFO  TestBase:34 - Browser Initiated
+2020-02-27 21:18:46 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 21:19:10 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-27 21:19:10 INFO  TestBase:49 - Closing Browser
+2020-02-27 21:19:12 INFO  TestBase:51 - Browser Closed
+2020-02-27 21:38:32 INFO  TestBase:28 - Initiate Browser
+2020-02-27 21:39:14 INFO  TestBase:34 - Browser Initiated
+2020-02-27 21:39:14 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 21:39:39 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-27 21:39:39 INFO  TestBase:49 - Closing Browser
+2020-02-27 21:39:41 INFO  TestBase:51 - Browser Closed
+2020-02-27 21:43:47 INFO  TestBase:28 - Initiate Browser
+2020-02-27 21:44:26 INFO  TestBase:34 - Browser Initiated
+2020-02-27 21:44:26 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 21:44:47 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-27 21:44:47 INFO  TestBase:49 - Closing Browser
+2020-02-27 21:44:49 INFO  TestBase:51 - Browser Closed
+2020-02-27 21:46:20 INFO  TestBase:28 - Initiate Browser
+2020-02-27 21:47:26 INFO  TestBase:34 - Browser Initiated
+2020-02-27 21:47:26 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 21:47:59 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@38082d64] output={null}]
+2020-02-27 21:47:59 INFO  TestBase:49 - Closing Browser
+2020-02-27 21:48:01 INFO  TestBase:51 - Browser Closed
+2020-02-27 21:48:22 INFO  TestBase:28 - Initiate Browser
+2020-02-27 21:49:15 INFO  TestBase:34 - Browser Initiated
+2020-02-27 21:49:15 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 21:49:44 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-27 21:49:44 INFO  TestBase:49 - Closing Browser
+2020-02-27 21:49:46 INFO  TestBase:51 - Browser Closed
+2020-02-27 22:01:05 INFO  TestBase:28 - Initiate Browser
+2020-02-27 22:03:04 INFO  TestBase:34 - Browser Initiated
+2020-02-27 22:03:04 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 22:04:22 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-27 22:04:22 INFO  TestBase:49 - Closing Browser
+2020-02-27 22:04:24 INFO  TestBase:51 - Browser Closed
+2020-02-27 22:31:52 INFO  TestBase:28 - Initiate Browser
+2020-02-27 22:33:14 INFO  TestBase:34 - Browser Initiated
+2020-02-27 22:33:14 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 22:33:47 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-27 22:33:47 INFO  TestBase:49 - Closing Browser
+2020-02-27 22:33:48 INFO  TestBase:51 - Browser Closed
+2020-02-27 23:50:22 INFO  TestBase:28 - Initiate Browser
+2020-02-27 23:51:09 INFO  TestBase:34 - Browser Initiated
+2020-02-27 23:51:09 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 23:51:36 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-27 23:51:36 INFO  TestBase:49 - Closing Browser
+2020-02-27 23:51:38 INFO  TestBase:51 - Browser Closed
+2020-02-27 23:51:56 INFO  TestBase:28 - Initiate Browser
+2020-02-27 23:52:43 INFO  TestBase:34 - Browser Initiated
+2020-02-27 23:52:43 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 23:53:10 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-27 23:53:10 INFO  TestBase:49 - Closing Browser
+2020-02-27 23:53:12 INFO  TestBase:51 - Browser Closed
+2020-02-27 23:53:38 INFO  TestBase:28 - Initiate Browser
+2020-02-27 23:54:24 INFO  TestBase:34 - Browser Initiated
+2020-02-27 23:54:24 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 23:54:55 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-27 23:54:55 INFO  TestBase:49 - Closing Browser
+2020-02-27 23:54:56 INFO  TestBase:51 - Browser Closed
+2020-02-27 23:58:35 INFO  TestBase:28 - Initiate Browser
+2020-02-27 23:59:18 INFO  TestBase:34 - Browser Initiated
+2020-02-27 23:59:18 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-27 23:59:47 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-27 23:59:47 INFO  TestBase:49 - Closing Browser
+2020-02-27 23:59:49 INFO  TestBase:51 - Browser Closed
+2020-02-28 09:59:03 INFO  TestBase:28 - Initiate Browser
+2020-02-28 09:59:17 INFO  TestBase:34 - Browser Initiated
+2020-02-28 09:59:17 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 09:59:20 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 09:59:20 INFO  TestBase:49 - Closing Browser
+2020-02-28 09:59:21 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:01:46 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:02:01 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:02:01 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:02:03 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:02:03 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:02:05 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:03:46 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:04:01 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:04:01 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:04:03 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:04:03 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:04:04 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:05:05 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:05:20 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:05:20 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:05:22 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:05:22 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:05:24 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:05:31 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:05:45 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:05:45 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:05:47 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 10:05:47 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:05:49 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:06:41 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:06:55 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:06:55 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:06:57 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:06:57 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:06:57 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:11:21 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:11:37 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:11:37 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:11:44 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:11:44 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:11:44 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:14:18 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:14:33 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:14:33 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:14:35 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@3b81a1bc] output={null}]
+2020-02-28 10:14:35 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:14:35 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:14:52 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:15:06 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:15:06 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:15:09 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:15:09 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:15:09 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:16:29 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:16:44 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:16:44 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:16:51 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:16:51 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:16:51 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:17:44 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:18:00 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:18:00 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:18:06 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 10:18:06 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:18:06 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:23:51 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:24:06 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:24:06 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:24:12 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:24:12 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:24:12 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:25:55 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:26:09 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:26:09 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:26:15 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:26:15 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:26:15 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:27:55 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:28:11 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:28:11 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:28:17 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 10:28:17 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:28:17 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:28:27 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:29:14 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:29:14 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name={null} status=CREATED method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@7adda9cc] output={null}]
+2020-02-28 10:29:14 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:29:14 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:29:22 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:29:37 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:29:37 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:29:43 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 10:29:43 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:29:43 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:31:05 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:31:20 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:31:20 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:31:26 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 10:31:26 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:31:26 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:33:26 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:33:40 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:33:40 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:33:42 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 10:33:42 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:33:42 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:34:47 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:35:02 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:35:02 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:35:04 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:35:04 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:35:04 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:35:49 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:36:03 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:36:03 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:36:05 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 10:36:05 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:36:05 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:41:35 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:41:51 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:41:51 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:41:58 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:41:58 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:41:58 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:42:37 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:42:52 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:42:52 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:42:56 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:42:56 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:42:56 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:43:16 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:43:31 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:43:31 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:43:36 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:43:36 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:43:36 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:46:26 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:46:42 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:46:42 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:46:51 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:46:51 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:46:51 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:47:28 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:47:43 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:47:43 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:47:49 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 10:47:49 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:47:49 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:47:59 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:48:14 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:48:14 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:48:19 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=FAILURE method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 10:48:19 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:48:19 INFO  TestBase:51 - Browser Closed
+2020-02-28 10:48:49 INFO  TestBase:28 - Initiate Browser
+2020-02-28 10:49:04 INFO  TestBase:34 - Browser Initiated
+2020-02-28 10:49:04 INFO  TestBase:44 - Test name: UserManagemant
+2020-02-28 10:49:11 INFO  TestBase:56 - Executed test case name:UserManagemant Execution Results : [TestResult name=UserManagemant status=SUCCESS method=AdminTest.UserManagemant()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 10:49:11 INFO  TestBase:49 - Closing Browser
+2020-02-28 10:49:11 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:01:41 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:01:56 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:01:56 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:01:58 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=FAILURE method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 12:01:58 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:01:58 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:36:59 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:37:13 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:37:13 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:37:15 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=FAILURE method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 12:37:15 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:37:15 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:38:52 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:39:07 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:39:07 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:39:08 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=SUCCESS method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 12:39:08 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:39:08 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:40:27 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:40:42 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:40:42 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:40:44 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=SUCCESS method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 12:40:44 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:40:44 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:41:25 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:41:40 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:41:40 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:41:42 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=SUCCESS method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 12:41:42 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:41:42 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:42:06 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:42:20 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:42:20 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:42:22 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=FAILURE method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 12:42:22 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:42:22 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:49:59 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:50:14 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:50:14 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:50:16 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=FAILURE method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 12:50:16 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:50:16 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:51:46 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:52:01 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:52:01 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:52:03 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=FAILURE method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 12:52:03 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:52:03 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:52:27 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:52:41 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:52:41 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:52:43 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=SUCCESS method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 12:52:43 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:52:43 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:55:20 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:55:35 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:55:35 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:55:41 INFO  AdminTest:76 - Click AdminPage
+2020-02-28 12:55:41 INFO  AdminTest:79 - Click AdminPage
+2020-02-28 12:55:42 INFO  AdminTest:82 - Click AdminPage
+2020-02-28 12:55:42 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=SUCCESS method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 12:55:42 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:55:42 INFO  TestBase:51 - Browser Closed
+2020-02-28 12:56:58 INFO  TestBase:28 - Initiate Browser
+2020-02-28 12:57:12 INFO  TestBase:34 - Browser Initiated
+2020-02-28 12:57:12 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 12:57:14 INFO  AdminTest:76 - Click AdminPage
+2020-02-28 12:57:14 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=FAILURE method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@13fee20c] output={null}]
+2020-02-28 12:57:14 INFO  TestBase:49 - Closing Browser
+2020-02-28 12:57:14 INFO  TestBase:51 - Browser Closed
+2020-02-28 13:09:37 INFO  TestBase:28 - Initiate Browser
+2020-02-28 13:09:53 INFO  TestBase:34 - Browser Initiated
+2020-02-28 13:09:53 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserRoll
+2020-02-28 13:09:55 INFO  AdminTest:76 - Click AdminPage
+2020-02-28 13:09:58 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserRoll Execution Results : [TestResult name=UserManagemantSearchWithUserRoll status=FAILURE method=AdminTest.UserManagemantSearchWithUserRoll()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 13:09:58 INFO  TestBase:49 - Closing Browser
+2020-02-28 13:09:58 INFO  TestBase:51 - Browser Closed
+2020-02-28 21:04:45 INFO  TestBase:28 - Initiate Browser
+2020-02-28 21:09:59 INFO  TestBase:44 - Test name: UserManagemantSearchWithUserName
+2020-02-28 21:09:59 INFO  TestBase:56 - Executed test case name:UserManagemantSearchWithUserName Execution Results : [TestResult name={null} status=CREATED method=AdminTest.UserManagemantSearchWithUserName()[pri:1, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-02-28 21:09:59 INFO  TestBase:49 - Closing Browser
+2020-02-28 21:09:59 INFO  TestBase:51 - Browser Closed
+2020-03-12 21:09:05 INFO  TestBase:28 - Initiate Browser
+2020-03-12 21:09:21 INFO  TestBase:34 - Browser Initiated
+2020-03-12 21:09:21 INFO  TestBase:44 - Test name: UserManagemantReset
+2020-03-12 21:09:31 INFO  TestBase:56 - Executed test case name:UserManagemantReset Execution Results : [TestResult name=UserManagemantReset status=SUCCESS method=AdminTest.UserManagemantReset()[pri:2, instance:com.abi.test.pageobject.Tests.AdminTest@5f2050f6] output={null}]
+2020-03-12 21:09:31 INFO  TestBase:49 - Closing Browser
+2020-03-12 21:09:31 INFO  TestBase:51 - Browser Closed

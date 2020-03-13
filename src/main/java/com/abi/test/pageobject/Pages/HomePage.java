@@ -3,6 +3,7 @@ package com.abi.test.pageobject.Pages;
 import com.abi.test.pageobject.Utils.PageBase;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
+import org.openqa.selenium.support.Color;
 
 public class HomePage extends PageBase {
     private static final Logger LOGGER =Logger.getLogger(HomePage.class);
@@ -10,7 +11,8 @@ public class HomePage extends PageBase {
 
     private static By Heading = By.xpath("//h1");
     //private static By Admin_Page =By.xpath("//b[text()=\"Admin\"]");
-    private static By Admin_Page =By.cssSelector("#menu_admin_viewAdminModule > b");
+    //private static By Admin_Page =By.xpath("//*[@id=\"menu_admin_viewAdminModule\"]/b");
+    private static By Admin_Page=By.id("menu_admin_viewAdminModule");
     private static By PIM_Page =By.xpath("//b[text()=\"PIM\"]");
     private static By Leave_Page =By.xpath("//b[text()=\"Leave\"]");
     private static By Time_Page =By.xpath("//b[text()=\"Time\"]");
@@ -60,4 +62,6 @@ public class HomePage extends PageBase {
     public static void ClickMaintenancePage(){
         getDriver().findElement(Maintenance_Page).click();
     }
+
+    public static String ButtonColour(){return Color.fromString(getDriver().findElement(Dashboard_Page).getCssValue("background")).asHex();}
 }

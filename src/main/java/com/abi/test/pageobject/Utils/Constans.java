@@ -35,10 +35,17 @@ public class Constans {
 
     public static final String COMMITE ="Suffering form fever";
 
-    public static final String CONFORMATIONMESSAGE="Employee does not have sufficient leave balance for leave request."+"Click OK to confirm leave assignment.";
+    public static final String CONFORMATIONMESSAGE="Employee does not have sufficient leave balance for leave request.";
 
     //-----------------MaintenancePage-----------------------
     public static final String Verify_Password ="1234566";
     public static final String VERIFYALTER ="Incorrect Password";
+    //----------buttonColour-------------
+    public static final String BTNCOLOUR ="#f28c38";
+    //-----------Adminage-------------
+    public static final String AdminUsername="Admin";
+    public static final String All ="All";
+    public static final String ADMIN ="Admin";
+    public static final String ESS ="ESS";
 
 }
