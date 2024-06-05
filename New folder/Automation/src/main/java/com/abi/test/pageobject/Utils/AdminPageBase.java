@@ -16,6 +16,9 @@ import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.sikuli.script.FindFailed;
+import org.sikuli.script.Pattern;
+import org.sikuli.script.Screen;
 
 import com.abi.test.pageobject.Pages.Login.LoginPage;
 
@@ -26,6 +29,8 @@ public class AdminPageBase {
     private static String webDriverLocation = "src"+ File.separator+"test"+File.separator+"resources"+File.separator+"Driver"+File.separator;
     protected static String downloadFilepath = System.getProperty("user.dir")+File.separator+"src"+File.separator+"test"+File.separator+"resources"+File.separator+"fileDownload";
     protected static String uploadFilepath = System.getProperty("user.dir")+File.separator+"src"+File.separator+"test"+File.separator+"resources"+File.separator+"fileUpload";
+    protected static String uploadImagePath = System.getProperty("user.dir") + File.separator + "src" + File.separator + "test" + File.separator + "resources" + File.separator + "img" + File.separator;
+
     protected static String osType = System.getProperty("os.type", Constans.WINDOW);
     protected static String driverType = System.getProperty("browser.type", Constans.CHROME);
 
@@ -146,5 +151,26 @@ public class AdminPageBase {
         WebElement checkBox ;
 
     }
+  //public static void UploadFile 
+    public static void uploadImage(String imageName) {
+        Screen screen = new Screen();
+        String imagePath = uploadImagePath + imageName;
 
+        // Check if the image file exists
+        File imageFile = new File(imagePath);
+        if (!imageFile.exists()) {
+            System.err.println("Error: Image file not found at " + imagePath);
+            return;
+        }
+
+        try {
+            Pattern image = new Pattern(imagePath);
+            screen.wait(image, 10);  // Wait for the image to appear
+            screen.click(image);    // Click on the image
+        } catch (FindFailed e) {
+            System.err.println("Failed to find the image pattern.");
+            e.printStackTrace();
+        }
+    }
+    
 }

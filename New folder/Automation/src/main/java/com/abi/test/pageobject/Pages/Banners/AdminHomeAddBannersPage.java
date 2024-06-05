@@ -6,8 +6,8 @@ import org.openqa.selenium.By;
 import com.abi.test.pageobject.Utils.AdminPageBase;
 
 
-public class AdminHomePageBannersView extends AdminPageBase {
-    private static final Logger LOGGER =Logger.getLogger(AdminHomePageBannersView.class);
+public class AdminHomeAddBannersPage extends AdminPageBase {
+    private static final Logger LOGGER =Logger.getLogger(AdminHomeAddBannersPage.class);
 
     private static By AltText =By.xpath("//*[@id=\"content\"]/div/div/div[2]/p");
     private static By Heading =By.xpath("//h6[contains(text(), 'Add Banner')]");

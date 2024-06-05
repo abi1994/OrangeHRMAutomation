@@ -28,7 +28,6 @@ public class PageBase {
     private static String webDriverLocation = "src"+ File.separator+"test"+File.separator+"resources"+File.separator+"Driver"+File.separator;
     protected static String downloadFilepath = System.getProperty("user.dir")+File.separator+"src"+File.separator+"test"+File.separator+"resources"+File.separator+"fileDownload";
     protected static String uploadFilepath = System.getProperty("user.dir")+File.separator+"src"+File.separator+"test"+File.separator+"resources"+File.separator+"fileUpload";
-    protected static String uploadImagepath = System.getProperty("user.dir")+File.separator+"src"+File.separator+"test"+File.separator+"resources"+File.separator+"img"+File.separator;
     protected static String osType = System.getProperty("os.type", Constans.WINDOW);
     protected static String driverType = System.getProperty("browser.type", Constans.CHROME);
 
@@ -77,7 +76,7 @@ public class PageBase {
      */
     public static void closeDriver() {
         getDriver().quit();
-        staticWait(1);
+        staticWait(10);
     }
 
     /**
@@ -143,20 +142,7 @@ public class PageBase {
         wait.until(ExpectedConditions.visibilityOfElementLocated(element));
     }
 
-    public static void Uploadimage() {
-    	Screen screen =new Screen();
-    	 try {
-             // Locate the image on the web page
-             Pattern image = new Pattern( uploadImagepath + "example.png");
-             screen.wait(image, 10);  // Wait for the image to appear
-
-             // Perform an action on the image (e.g., click)
-             screen.click(image);
-         } catch (FindFailed e) {
-             e.printStackTrace();
-         }
-    }
-    //public static void UploadFile 
+  
     public static void Login(String username , String Password){
         LoginPage.InputUserName(username);
         LoginPage.InputPasswordName(Password);

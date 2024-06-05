@@ -11,12 +11,12 @@ public class RoomBookingPage extends PageBase {
     private static final Logger LOGGER= Logger.getLogger(RoomBookingPage.class);
 	
     private static By HotelH1= By.xpath("//h3[@class='mb-3' and contains(text(), 'Room Booking')]");
-    private static By CheckinDate = By.xpath("//input[@name='checkin_date']");
-    private static By CheckoutDate = By.xpath("//input[@name='checkout_date']");
-    private static By AvaiableRoom =By.className("form-control room-list");
+    private static By CheckinDate = By.xpath("//input[@class='form-control checkin-date']");
+    private static By CheckoutDate = By.xpath("//input[@name='check_out_date' and @type='date' and @class='form-control']");
+    private static By AvaiableRoom =By.cssSelector("select.form-control.room-list");
     private static By TotalAdults =By.xpath("//input[@name='total_adults']");
     private static By TotalChildern =By.xpath("//input[@name='total_children']");
-    private static By Submit =By.className("btn btn-primary");
+    private static By Submit =By.xpath("//input[@class='btn btn-primary']");
     
     
     public static boolean IsDisplayBookingPage(){
@@ -24,7 +24,7 @@ public class RoomBookingPage extends PageBase {
     }
     
     public static void ClickCheckInDate() {
-    	getDriver().findElement(CheckinDate).click();
+    	getDriver().findElement(CheckinDate).clear();
     }
     
     public static void InputCheckinDate(String checkindate){
@@ -32,15 +32,17 @@ public class RoomBookingPage extends PageBase {
     }
     
     public static void ClickCheckOutDate() {
-    	getDriver().findElement(CheckoutDate).click();
+    	getDriver().findElement(CheckoutDate).clear();
     }
     
     public static void InputCheckoutDate(String checkoutdate) {
     	getDriver().findElement(CheckoutDate).sendKeys(checkoutdate);
     }
-    public static void SelectAvailabeRoom() {
-    	Select dropRoom =new Select(getDriver().findElement(AvaiableRoom));
-    	dropRoom.selectByIndex(0);
+    
+    public static void SelectAvailabeRoom(String option) {
+    	Select dropDownOption =new Select(getDriver().findElement(AvaiableRoom));
+        dropDownOption.selectByVisibleText(option);
+	
     }
     
     public static void InputTotalAdults(String totaladults) {

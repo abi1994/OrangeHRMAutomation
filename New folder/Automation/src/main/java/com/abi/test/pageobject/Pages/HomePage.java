@@ -14,7 +14,7 @@ public class HomePage extends PageBase {
     private static By Gallery_Page =By.xpath("//*[@id=\"navbarNavAltMarkup\"]/div/a[2]");
     private static By Login_Page =By.xpath("//*[@id=\"navbarNavAltMarkup\"]/div/a[3]");
     private static By Register_Page =By.xpath("//*[@id=\"navbarNavAltMarkup\"]/div/a[4]");
-    private static By Booking_Page =By.xpath("//*[@id=\"navbarNavAltMarkup\"]/div/a[5]");
+    private static By Booking_Page =By.xpath("//a[@class='nav-link btn btn-sm btn-danger']");
     private static By Services =By.xpath("services");
     private static By PoolsideBar =By.xpath("/html/body/main/div[2]/div[2]/div[2]/h3");
     private static By PoolsideBar_Page =By.xpath("/html/body/main/div[2]/div[2]/div[2]/p[2]/a");

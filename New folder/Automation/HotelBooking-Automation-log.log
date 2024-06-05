@@ -279,3 +279,1167 @@
 2024-04-11 16:28:41 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@906d29b] output={null}]
 2024-04-11 16:28:41 INFO  TestBase:50 - Closing Browser
 2024-04-11 16:28:42 INFO  TestBase:52 - Browser Closed
+2024-04-15 22:47:16 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-15 22:47:23 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-15 22:47:23 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-15 22:47:23 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-15 22:47:23 INFO  AdminTestBase:49 - Closing Browser
+2024-04-15 22:47:24 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 10:08:27 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 10:08:31 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 10:08:31 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 10:08:31 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 10:08:31 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 10:08:32 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 10:58:55 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 10:59:18 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 10:59:18 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 10:59:19 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 10:59:19 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 10:59:21 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 11:00:15 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 11:00:29 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 11:00:29 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 11:00:30 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 11:00:30 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 11:00:33 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 11:00:51 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 11:00:57 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 11:00:57 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 11:00:57 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 11:00:57 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 11:00:58 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 11:02:39 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 11:02:44 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 11:02:44 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 11:02:44 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 11:02:44 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 11:02:45 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 11:05:46 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 11:06:03 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 11:06:03 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 11:06:03 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 11:06:03 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 11:06:06 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 11:20:28 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 11:20:51 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 11:20:51 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 11:20:52 INFO  BannersTest:19 - Home Page 
+2024-04-19 11:21:01 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 11:21:01 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 11:21:02 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 11:21:45 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 11:22:03 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 11:22:03 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 11:22:05 INFO  BannersTest:20 - Home Page 
+2024-04-19 11:22:16 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 11:22:16 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 11:22:17 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 11:24:55 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 11:24:59 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 11:24:59 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 11:25:00 INFO  BannersTest:20 - Input the email
+2024-04-19 11:25:00 INFO  BannersTest:22 - Input the Password
+2024-04-19 11:25:02 INFO  BannersTest:24 - Login the Admin
+2024-04-19 11:25:02 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 11:25:02 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 11:25:04 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 18:10:12 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 18:10:22 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 18:10:22 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 18:10:23 INFO  BannersTest:20 - Input the email
+2024-04-19 18:10:23 INFO  BannersTest:22 - Input the Password
+2024-04-19 18:10:31 INFO  BannersTest:24 - Login the Admin
+2024-04-19 18:10:31 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 18:10:31 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 18:10:32 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 18:44:49 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 18:44:55 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 18:44:55 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 18:44:55 INFO  BannersTest:20 - Input the email
+2024-04-19 18:44:56 INFO  BannersTest:22 - Input the Password
+2024-04-19 18:45:00 INFO  BannersTest:24 - Login the Admin
+2024-04-19 18:45:00 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 18:45:00 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 18:45:01 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 18:47:35 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 18:47:42 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 18:47:42 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 18:47:42 INFO  BannersTest:20 - Input the email
+2024-04-19 18:47:42 INFO  BannersTest:22 - Input the Password
+2024-04-19 18:47:46 INFO  BannersTest:24 - Login the Admin
+2024-04-19 18:47:56 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 18:47:56 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 18:47:57 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 18:49:30 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 18:49:36 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 18:49:36 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 18:49:36 INFO  BannersTest:20 - Input the email
+2024-04-19 18:49:37 INFO  BannersTest:22 - Input the Password
+2024-04-19 18:49:40 INFO  BannersTest:24 - Login the Admin
+2024-04-19 18:49:40 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 18:49:40 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 18:49:42 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 18:55:47 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 18:55:52 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 18:55:52 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 18:55:52 INFO  BannersTest:20 - Input the email
+2024-04-19 18:55:53 INFO  BannersTest:22 - Input the Password
+2024-04-19 18:55:56 INFO  BannersTest:24 - Login the Admin
+2024-04-19 18:56:06 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 18:56:06 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 18:56:08 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 19:24:26 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 19:25:05 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 19:25:05 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 19:25:05 INFO  BannersTest:20 - Input the email
+2024-04-19 19:25:06 INFO  BannersTest:22 - Input the Password
+2024-04-19 19:25:09 INFO  BannersTest:24 - Login the Admin
+2024-04-19 19:25:09 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 19:25:09 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 19:25:10 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 19:26:36 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 19:26:47 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 19:26:47 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 19:26:47 INFO  BannersTest:20 - Input the email
+2024-04-19 19:26:47 INFO  BannersTest:22 - Input the Password
+2024-04-19 19:26:49 INFO  BannersTest:24 - Login the Admin
+2024-04-19 19:26:50 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 19:26:50 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 19:26:51 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 19:34:57 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 19:35:11 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 19:35:11 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 19:35:14 INFO  BannersTest:20 - Input the email
+2024-04-19 19:35:15 INFO  BannersTest:22 - Input the Password
+2024-04-19 19:35:27 INFO  BannersTest:24 - Login the Admin
+2024-04-19 19:35:30 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 19:35:30 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 19:35:32 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 19:47:09 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 19:47:29 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 19:47:29 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 19:47:30 INFO  BannersTest:21 - Input the email
+2024-04-19 19:47:30 INFO  BannersTest:23 - Input the Password
+2024-04-19 19:47:32 INFO  BannersTest:25 - Login the Admin
+2024-04-19 19:47:33 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 19:47:33 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 19:47:35 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 19:50:11 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 19:51:59 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 19:51:59 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 19:51:59 INFO  BannersTest:21 - Input the email
+2024-04-19 19:51:59 INFO  BannersTest:23 - Input the Password
+2024-04-19 19:52:01 INFO  BannersTest:25 - Login the Admin
+2024-04-19 19:52:01 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 19:52:02 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 19:52:02 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 19:52:02 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 19:52:03 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 19:56:28 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 19:56:43 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 19:56:43 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 19:56:43 INFO  BannersTest:21 - Input the email
+2024-04-19 19:56:44 INFO  BannersTest:23 - Input the Password
+2024-04-19 19:56:46 INFO  BannersTest:25 - Login the Admin
+2024-04-19 19:56:46 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 19:56:48 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 19:56:48 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 19:56:48 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 19:56:50 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 20:00:09 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 20:00:28 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 20:00:28 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 20:00:28 INFO  BannersTest:21 - Input the email
+2024-04-19 20:00:28 INFO  BannersTest:23 - Input the Password
+2024-04-19 20:00:32 INFO  BannersTest:25 - Login the Admin
+2024-04-19 20:00:32 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 20:00:35 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 20:00:35 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 20:00:35 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 20:00:36 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 20:05:42 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 20:07:20 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 20:07:20 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 20:07:21 INFO  BannersTest:21 - Input the email
+2024-04-19 20:07:21 INFO  BannersTest:23 - Input the Password
+2024-04-19 20:07:23 INFO  BannersTest:25 - Login the Admin
+2024-04-19 20:07:23 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 20:07:24 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 20:07:24 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 20:07:24 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 20:07:25 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 20:19:23 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 20:19:35 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 20:19:35 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 20:19:36 INFO  BannersTest:21 - Input the email
+2024-04-19 20:19:36 INFO  BannersTest:23 - Input the Password
+2024-04-19 20:19:38 INFO  BannersTest:25 - Login the Admin
+2024-04-19 20:19:39 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 20:19:42 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 20:19:42 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 20:19:42 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 20:19:44 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 20:25:18 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 20:25:35 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 20:25:35 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 20:25:35 INFO  BannersTest:21 - Input the email
+2024-04-19 20:25:35 INFO  BannersTest:23 - Input the Password
+2024-04-19 20:25:37 INFO  BannersTest:25 - Login the Admin
+2024-04-19 20:25:37 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 20:25:39 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 20:25:39 INFO  BannersTest:32 - Add Banner page appear
+2024-04-19 20:25:53 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 20:25:53 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 20:25:54 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 20:53:39 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 20:54:01 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 20:54:23 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 20:54:23 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 20:54:23 INFO  BannersTest:21 - Input the email
+2024-04-19 20:54:24 INFO  BannersTest:23 - Input the Password
+2024-04-19 20:54:26 INFO  BannersTest:25 - Login the Admin
+2024-04-19 20:54:27 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 20:54:31 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 20:54:31 INFO  BannersTest:32 - Add Banner page appear
+2024-04-19 20:54:33 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 20:54:33 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 20:54:34 INFO  BannersTest:21 - Input the email
+2024-04-19 20:54:34 INFO  BannersTest:23 - Input the Password
+2024-04-19 20:54:40 INFO  BannersTest:25 - Login the Admin
+2024-04-19 20:54:41 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 20:54:43 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 20:54:43 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 20:54:44 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 20:54:44 INFO  BannersTest:32 - Add Banner page appear
+2024-04-19 20:54:45 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 20:54:56 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 20:54:56 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 20:54:57 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 21:20:43 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 21:20:54 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 21:20:54 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 21:20:55 INFO  BannersTest:21 - Input the email
+2024-04-19 21:20:55 INFO  BannersTest:23 - Input the Password
+2024-04-19 21:20:57 INFO  BannersTest:25 - Login the Admin
+2024-04-19 21:20:58 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 21:21:01 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 21:21:01 INFO  BannersTest:32 - Add Banner page appear
+2024-04-19 21:21:03 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 21:21:03 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 21:21:06 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 22:51:08 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 22:51:23 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 22:51:23 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 22:51:23 INFO  BannersTest:21 - Input the email
+2024-04-19 22:51:23 INFO  BannersTest:23 - Input the Password
+2024-04-19 22:51:26 INFO  BannersTest:25 - Login the Admin
+2024-04-19 22:51:27 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 22:51:28 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 22:51:28 INFO  BannersTest:32 - Add Banner page appear
+2024-04-19 22:51:30 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 22:51:30 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 22:51:31 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 22:52:48 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 22:53:05 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 22:53:05 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 22:53:05 INFO  BannersTest:21 - Input the email
+2024-04-19 22:53:05 INFO  BannersTest:23 - Input the Password
+2024-04-19 22:53:07 INFO  BannersTest:25 - Login the Admin
+2024-04-19 22:53:07 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 22:53:11 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 22:53:11 INFO  BannersTest:32 - Add Banner page appear
+2024-04-19 22:53:11 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 22:53:11 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 22:53:13 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 22:55:12 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 22:56:56 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 22:56:56 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 22:56:56 INFO  BannersTest:21 - Input the email
+2024-04-19 22:56:57 INFO  BannersTest:23 - Input the Password
+2024-04-19 22:56:59 INFO  BannersTest:25 - Login the Admin
+2024-04-19 22:56:59 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 22:57:00 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 22:57:00 INFO  BannersTest:32 - Add Banner page appear
+2024-04-19 22:57:00 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 22:57:00 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 22:57:01 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 23:21:06 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 23:21:18 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 23:21:18 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 23:21:18 INFO  BannersTest:21 - Input the email
+2024-04-19 23:21:18 INFO  BannersTest:23 - Input the Password
+2024-04-19 23:21:20 INFO  BannersTest:25 - Login the Admin
+2024-04-19 23:21:20 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 23:21:24 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 23:21:24 INFO  BannersTest:32 - Add Banner page appear
+2024-04-19 23:21:27 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 23:21:27 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 23:21:30 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 23:25:34 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 23:25:35 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-19 23:25:56 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 23:25:56 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 23:25:57 INFO  BannersTest:21 - Input the email
+2024-04-19 23:25:57 INFO  BannersTest:23 - Input the Password
+2024-04-19 23:26:36 INFO  BannersTest:25 - Login the Admin
+2024-04-19 23:26:36 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 23:27:22 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-19 23:27:22 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-19 23:27:23 INFO  BannersTest:21 - Input the email
+2024-04-19 23:27:23 INFO  BannersTest:23 - Input the Password
+2024-04-19 23:27:25 INFO  BannersTest:25 - Login the Admin
+2024-04-19 23:27:25 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-19 23:27:27 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 23:27:27 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 23:27:27 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 23:27:29 INFO  AdminTestBase:51 - Browser Closed
+2024-04-19 23:27:41 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-19 23:27:41 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-19 23:27:41 INFO  AdminTestBase:49 - Closing Browser
+2024-04-19 23:27:42 INFO  AdminTestBase:51 - Browser Closed
+2024-04-20 07:32:26 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-20 07:32:33 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-20 07:32:33 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-20 07:32:33 INFO  BannersTest:21 - Input the email
+2024-04-20 07:32:34 INFO  BannersTest:23 - Input the Password
+2024-04-20 07:32:38 INFO  BannersTest:25 - Login the Admin
+2024-04-20 07:32:38 INFO  BannersTest:28 - Click the AdminHomeBannerPage
+2024-04-20 07:32:40 INFO  BannersTest:30 - Click the AddBanner in AdminHomePage
+2024-04-20 07:32:40 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-20 07:32:40 INFO  AdminTestBase:49 - Closing Browser
+2024-04-20 07:32:42 INFO  AdminTestBase:51 - Browser Closed
+2024-04-20 07:35:50 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-20 07:36:14 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-20 07:36:14 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-20 07:36:14 INFO  BannersTest:22 - Input the email
+2024-04-20 07:36:14 INFO  BannersTest:24 - Input the Password
+2024-04-20 07:36:29 INFO  BannersTest:26 - Login the Admin
+2024-04-20 07:36:30 INFO  BannersTest:29 - Click the AdminHomeBannerPage
+2024-04-20 07:36:32 INFO  BannersTest:31 - Click the AddBanner in AdminHomePage
+2024-04-20 07:36:32 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-20 07:36:32 INFO  AdminTestBase:49 - Closing Browser
+2024-04-20 07:36:33 INFO  AdminTestBase:51 - Browser Closed
+2024-04-20 07:37:04 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-20 07:37:09 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-20 07:37:09 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-20 07:37:09 INFO  BannersTest:22 - Input the email
+2024-04-20 07:37:09 INFO  BannersTest:24 - Input the Password
+2024-04-20 07:37:13 INFO  BannersTest:26 - Login the Admin
+2024-04-20 07:37:13 INFO  BannersTest:29 - Click the AdminHomeBannerPage
+2024-04-20 07:37:15 INFO  BannersTest:31 - Click the AddBanner in AdminHomePage
+2024-04-20 07:37:15 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-20 07:37:15 INFO  AdminTestBase:49 - Closing Browser
+2024-04-20 07:37:17 INFO  AdminTestBase:51 - Browser Closed
+2024-04-20 07:43:41 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-20 07:43:48 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-20 07:43:49 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-20 07:43:49 INFO  BannersTest:22 - Input the email
+2024-04-20 07:43:49 INFO  BannersTest:24 - Input the Password
+2024-04-20 07:43:54 INFO  BannersTest:26 - Login the Admin
+2024-04-20 07:43:54 INFO  BannersTest:29 - Click the AdminHomeBannerPage
+2024-04-20 07:43:55 INFO  BannersTest:31 - Click the AddBanner in AdminHomePage
+2024-04-20 07:43:55 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-20 07:43:55 INFO  AdminTestBase:49 - Closing Browser
+2024-04-20 07:43:57 INFO  AdminTestBase:51 - Browser Closed
+2024-04-20 07:46:49 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-20 07:47:05 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-20 07:47:05 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-20 07:47:06 INFO  BannersTest:23 - Input the email
+2024-04-20 07:47:07 INFO  BannersTest:25 - Input the Password
+2024-04-20 07:47:17 INFO  BannersTest:27 - Login the Admin
+2024-04-20 07:47:17 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-20 07:47:20 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-20 07:47:20 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-20 07:47:20 INFO  AdminTestBase:49 - Closing Browser
+2024-04-20 07:47:21 INFO  AdminTestBase:51 - Browser Closed
+2024-04-20 07:49:48 INFO  TestBase:28 - Initiate Browser
+2024-04-20 07:50:21 INFO  TestBase:34 - Browser Initiated
+2024-04-20 07:50:21 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-20 07:50:21 INFO  LoginTest:18 - Home Page 
+2024-04-20 07:50:23 INFO  LoginTest:20 - Login the loginpage
+2024-04-20 07:50:26 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=FAILURE method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@436bc36] output={null}]
+2024-04-20 07:50:26 INFO  TestBase:50 - Closing Browser
+2024-04-20 07:50:26 INFO  TestBase:52 - Browser Closed
+2024-04-20 07:50:26 INFO  TestBase:28 - Initiate Browser
+2024-04-20 07:50:33 INFO  TestBase:34 - Browser Initiated
+2024-04-20 07:50:33 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-20 07:50:34 INFO  LoginTest:18 - Home Page 
+2024-04-20 07:50:34 INFO  LoginTest:20 - Login the loginpage
+2024-04-20 07:50:37 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=FAILURE method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@436bc36] output={null}]
+2024-04-20 07:50:37 INFO  TestBase:50 - Closing Browser
+2024-04-20 07:50:37 INFO  TestBase:52 - Browser Closed
+2024-04-20 07:50:37 INFO  TestBase:28 - Initiate Browser
+2024-04-20 07:50:43 INFO  TestBase:34 - Browser Initiated
+2024-04-20 07:50:43 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-20 07:50:43 INFO  LoginTest:18 - Home Page 
+2024-04-20 07:50:46 INFO  LoginTest:20 - Login the loginpage
+2024-04-20 07:50:52 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=FAILURE method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@436bc36] output={null}]
+2024-04-20 07:50:52 INFO  TestBase:50 - Closing Browser
+2024-04-20 07:50:52 INFO  TestBase:52 - Browser Closed
+2024-04-20 07:50:52 INFO  TestBase:28 - Initiate Browser
+2024-04-20 07:51:06 INFO  TestBase:34 - Browser Initiated
+2024-04-20 07:51:06 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-20 07:51:06 INFO  LoginTest:18 - Home Page 
+2024-04-20 07:51:08 INFO  LoginTest:20 - Login the loginpage
+2024-04-20 07:51:12 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=FAILURE method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@436bc36] output={null}]
+2024-04-20 07:51:12 INFO  TestBase:50 - Closing Browser
+2024-04-20 07:51:12 INFO  TestBase:52 - Browser Closed
+2024-04-20 07:51:12 INFO  TestBase:28 - Initiate Browser
+2024-04-20 07:51:27 INFO  TestBase:34 - Browser Initiated
+2024-04-20 07:51:27 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-20 07:51:27 INFO  LoginTest:18 - Home Page 
+2024-04-20 07:51:31 INFO  LoginTest:20 - Login the loginpage
+2024-04-20 07:51:38 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=SUCCESS method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@436bc36] output={null}]
+2024-04-20 07:51:38 INFO  TestBase:50 - Closing Browser
+2024-04-20 07:51:38 INFO  TestBase:52 - Browser Closed
+2024-04-20 07:51:38 INFO  TestBase:28 - Initiate Browser
+2024-04-20 07:51:45 INFO  TestBase:34 - Browser Initiated
+2024-04-20 07:51:45 INFO  TestBase:44 - Test name: LoginPagevalidTest
+2024-04-20 07:51:52 INFO  LoginTest:33 - Home Page 
+2024-04-20 07:51:55 INFO  LoginTest:35 - Login the loginpage
+2024-04-20 07:52:02 INFO  TestBase:57 - Executed test case name:LoginPagevalidTest Execution Results : [TestResult name=LoginPagevalidTest status=SUCCESS method=LoginTest.LoginPagevalidTest(java.lang.String, java.lang.String)[pri:2, instance:com.abi.test.pageobject.Tests.LoginTest@436bc36] output={null}]
+2024-04-20 07:52:02 INFO  TestBase:50 - Closing Browser
+2024-04-20 07:52:02 INFO  TestBase:52 - Browser Closed
+2024-04-20 07:52:02 INFO  TestBase:28 - Initiate Browser
+2024-04-20 07:52:19 INFO  TestBase:34 - Browser Initiated
+2024-04-20 07:52:19 INFO  TestBase:44 - Test name: LoginPagevalidTest
+2024-04-20 07:52:19 INFO  LoginTest:33 - Home Page 
+2024-04-20 07:52:21 INFO  LoginTest:35 - Login the loginpage
+2024-04-20 07:52:25 INFO  TestBase:57 - Executed test case name:LoginPagevalidTest Execution Results : [TestResult name=LoginPagevalidTest status=SUCCESS method=LoginTest.LoginPagevalidTest(java.lang.String, java.lang.String)[pri:2, instance:com.abi.test.pageobject.Tests.LoginTest@436bc36] output={null}]
+2024-04-20 07:52:25 INFO  TestBase:50 - Closing Browser
+2024-04-20 07:52:25 INFO  TestBase:52 - Browser Closed
+2024-04-20 08:22:19 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-20 08:22:36 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-20 08:22:36 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-20 08:22:36 INFO  BannersTest:23 - Input the email
+2024-04-20 08:22:36 INFO  BannersTest:25 - Input the Password
+2024-04-20 08:22:38 INFO  BannersTest:27 - Login the Admin
+2024-04-20 08:22:38 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-20 08:22:39 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-20 08:22:40 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-20 08:22:40 INFO  AdminTestBase:49 - Closing Browser
+2024-04-20 08:22:42 INFO  AdminTestBase:51 - Browser Closed
+2024-04-20 08:27:04 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-20 08:27:25 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-20 08:27:25 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-20 08:27:26 INFO  BannersTest:23 - Input the email
+2024-04-20 08:27:26 INFO  BannersTest:25 - Input the Password
+2024-04-20 08:27:33 INFO  BannersTest:27 - Login the Admin
+2024-04-20 08:27:33 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-20 08:27:35 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-20 08:27:35 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-20 08:27:35 INFO  AdminTestBase:49 - Closing Browser
+2024-04-20 08:27:37 INFO  AdminTestBase:51 - Browser Closed
+2024-04-20 08:28:22 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-20 08:28:48 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-20 08:28:48 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-20 08:28:48 INFO  BannersTest:23 - Input the email
+2024-04-20 08:28:49 INFO  BannersTest:25 - Input the Password
+2024-04-20 08:28:53 INFO  BannersTest:27 - Login the Admin
+2024-04-20 08:28:53 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-20 08:28:56 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-20 08:28:56 INFO  BannersTest:34 - Add Banner page appear
+2024-04-20 08:28:56 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-20 08:28:56 INFO  AdminTestBase:49 - Closing Browser
+2024-04-20 08:28:58 INFO  AdminTestBase:51 - Browser Closed
+2024-04-21 09:48:35 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-21 09:51:47 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-21 09:51:47 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-21 09:51:47 INFO  BannersTest:23 - Input the email
+2024-04-21 09:51:47 INFO  BannersTest:25 - Input the Password
+2024-04-21 09:52:47 INFO  BannersTest:27 - Login the Admin
+2024-04-21 09:52:48 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=FAILURE method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-21 09:52:48 INFO  AdminTestBase:49 - Closing Browser
+2024-04-21 09:52:49 INFO  AdminTestBase:51 - Browser Closed
+2024-04-21 09:56:23 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-21 09:56:37 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-21 09:56:37 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-21 09:56:38 INFO  BannersTest:23 - Input the email
+2024-04-21 09:56:38 INFO  BannersTest:25 - Input the Password
+2024-04-21 09:56:40 INFO  BannersTest:27 - Login the Admin
+2024-04-21 09:56:40 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-21 09:56:41 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-21 09:56:41 INFO  BannersTest:34 - Add Banner page appear
+2024-04-21 09:56:41 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@52851b44] output={null}]
+2024-04-21 09:56:41 INFO  AdminTestBase:49 - Closing Browser
+2024-04-21 09:56:43 INFO  AdminTestBase:51 - Browser Closed
+2024-04-21 09:57:25 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-21 09:57:39 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-21 09:57:39 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-21 09:57:39 INFO  BannersTest:23 - Input the email
+2024-04-21 09:57:39 INFO  BannersTest:25 - Input the Password
+2024-04-21 09:57:41 INFO  BannersTest:27 - Login the Admin
+2024-04-21 09:57:42 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-21 09:57:43 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-21 09:57:44 INFO  BannersTest:34 - Add Banner page appear
+2024-04-21 09:57:44 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@52851b44] output={null}]
+2024-04-21 09:57:44 INFO  AdminTestBase:49 - Closing Browser
+2024-04-21 09:57:46 INFO  AdminTestBase:51 - Browser Closed
+2024-04-21 09:57:48 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-21 09:57:57 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-21 09:58:23 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-21 09:58:23 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-21 09:58:24 INFO  BannersTest:23 - Input the email
+2024-04-21 09:58:24 INFO  BannersTest:25 - Input the Password
+2024-04-21 09:58:27 INFO  BannersTest:27 - Login the Admin
+2024-04-21 09:58:27 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-21 09:58:30 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-21 09:58:30 INFO  BannersTest:34 - Add Banner page appear
+2024-04-21 09:58:30 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@52851b44] output={null}]
+2024-04-21 09:58:30 INFO  AdminTestBase:49 - Closing Browser
+2024-04-21 09:58:31 INFO  AdminTestBase:51 - Browser Closed
+2024-04-21 09:58:35 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-21 09:58:35 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-21 09:58:35 INFO  BannersTest:23 - Input the email
+2024-04-21 09:58:35 INFO  BannersTest:25 - Input the Password
+2024-04-21 09:58:37 INFO  BannersTest:27 - Login the Admin
+2024-04-21 09:58:38 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-21 09:58:40 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-21 09:58:40 INFO  BannersTest:34 - Add Banner page appear
+2024-04-21 09:58:41 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@52851b44] output={null}]
+2024-04-21 09:58:41 INFO  AdminTestBase:49 - Closing Browser
+2024-04-21 09:58:42 INFO  AdminTestBase:51 - Browser Closed
+2024-04-21 09:59:10 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-21 09:59:25 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-21 09:59:25 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-21 09:59:25 INFO  BannersTest:23 - Input the email
+2024-04-21 09:59:25 INFO  BannersTest:25 - Input the Password
+2024-04-21 09:59:28 INFO  BannersTest:27 - Login the Admin
+2024-04-21 09:59:29 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-21 09:59:32 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-21 09:59:32 INFO  BannersTest:34 - Add Banner page appear
+2024-04-21 09:59:33 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@52851b44] output={null}]
+2024-04-21 09:59:33 INFO  AdminTestBase:49 - Closing Browser
+2024-04-21 09:59:34 INFO  AdminTestBase:51 - Browser Closed
+2024-04-21 09:59:54 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-21 10:00:09 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-21 10:00:09 INFO  AdminTestBase:43 - Test name: BannersAddTest
+2024-04-21 10:00:09 INFO  BannersTest:23 - Input the email
+2024-04-21 10:00:10 INFO  BannersTest:25 - Input the Password
+2024-04-21 10:00:12 INFO  BannersTest:27 - Login the Admin
+2024-04-21 10:00:12 INFO  BannersTest:30 - Click the AdminHomeBannerPage
+2024-04-21 10:00:14 INFO  BannersTest:32 - Click the AddBanner in AdminHomePage
+2024-04-21 10:00:14 INFO  BannersTest:34 - Add Banner page appear
+2024-04-21 10:00:19 INFO  AdminTestBase:56 - Executed test case name:BannersAddTest Execution Results : [TestResult name=BannersAddTest status=SUCCESS method=BannersTest.BannersAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.BannersTest@66fdec9] output={null}]
+2024-04-21 10:00:19 INFO  AdminTestBase:49 - Closing Browser
+2024-04-21 10:00:21 INFO  AdminTestBase:51 - Browser Closed
+2024-04-23 11:27:14 INFO  TestBase:28 - Initiate Browser
+2024-04-23 11:28:07 INFO  TestBase:34 - Browser Initiated
+2024-04-23 11:28:07 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 11:28:08 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 11:28:08 INFO  TestBase:50 - Closing Browser
+2024-04-23 11:28:18 INFO  TestBase:52 - Browser Closed
+2024-04-23 11:29:03 INFO  TestBase:28 - Initiate Browser
+2024-04-23 11:29:27 INFO  TestBase:34 - Browser Initiated
+2024-04-23 11:29:27 INFO  TestBase:44 - Test name: LoginPagevalidTest
+2024-04-23 11:29:27 INFO  LoginTest:33 - Home Page 
+2024-04-23 11:29:38 INFO  LoginTest:35 - Login the loginpage
+2024-04-23 11:29:40 INFO  TestBase:57 - Executed test case name:LoginPagevalidTest Execution Results : [TestResult name=LoginPagevalidTest status=SUCCESS method=LoginTest.LoginPagevalidTest(java.lang.String, java.lang.String)[pri:2, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 11:29:40 INFO  TestBase:50 - Closing Browser
+2024-04-23 11:29:51 INFO  TestBase:52 - Browser Closed
+2024-04-23 11:29:51 INFO  TestBase:28 - Initiate Browser
+2024-04-23 11:30:28 INFO  TestBase:34 - Browser Initiated
+2024-04-23 11:30:28 INFO  TestBase:44 - Test name: LoginPagevalidTest
+2024-04-23 11:30:28 INFO  LoginTest:33 - Home Page 
+2024-04-23 11:32:48 INFO  LoginTest:35 - Login the loginpage
+2024-04-23 11:33:05 INFO  TestBase:57 - Executed test case name:LoginPagevalidTest Execution Results : [TestResult name=LoginPagevalidTest status=SUCCESS method=LoginTest.LoginPagevalidTest(java.lang.String, java.lang.String)[pri:2, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 11:33:05 INFO  TestBase:50 - Closing Browser
+2024-04-23 11:33:15 INFO  TestBase:52 - Browser Closed
+2024-04-23 11:58:31 INFO  TestBase:28 - Initiate Browser
+2024-04-23 11:59:26 INFO  TestBase:34 - Browser Initiated
+2024-04-23 11:59:26 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 11:59:26 INFO  LoginTest:18 - Home Page 
+2024-04-23 11:59:27 INFO  LoginTest:20 - Login the loginpage
+2024-04-23 11:59:28 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=FAILURE method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 11:59:28 INFO  TestBase:50 - Closing Browser
+2024-04-23 11:59:39 INFO  TestBase:52 - Browser Closed
+2024-04-23 11:59:39 INFO  TestBase:28 - Initiate Browser
+2024-04-23 11:59:57 INFO  TestBase:34 - Browser Initiated
+2024-04-23 11:59:57 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 11:59:58 INFO  LoginTest:18 - Home Page 
+2024-04-23 11:59:58 INFO  LoginTest:20 - Login the loginpage
+2024-04-23 12:00:00 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=FAILURE method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:00:00 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:00:10 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:00:10 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:00:30 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:00:30 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 12:00:30 INFO  LoginTest:18 - Home Page 
+2024-04-23 12:00:31 INFO  LoginTest:20 - Login the loginpage
+2024-04-23 12:00:33 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=FAILURE method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:00:33 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:00:43 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:00:43 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:05:50 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 12:05:50 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:05:50 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:06:00 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:06:00 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:06:01 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:06:51 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:06:51 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 12:06:51 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:06:51 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:07:01 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:11:06 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 12:11:06 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:11:06 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:11:16 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:11:16 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:12:21 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:12:21 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 12:12:21 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:12:21 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:12:32 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:12:32 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:12:57 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:12:57 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 12:12:57 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:12:57 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:13:07 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:13:07 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:13:40 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:13:40 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 12:13:40 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:13:40 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:13:51 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:13:51 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:14:58 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:14:58 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-23 12:14:58 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:14:58 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:15:08 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:37:36 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:37:56 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:37:56 INFO  TestBase:44 - Test name: LoginPagevalidTest
+2024-04-23 12:37:56 INFO  LoginTest:34 - Home Page 
+2024-04-23 12:37:57 INFO  LoginTest:36 - Login the loginpage
+2024-04-23 12:37:58 INFO  LoginTest:41 - login the cusermer
+2024-04-23 12:37:58 INFO  TestBase:57 - Executed test case name:LoginPagevalidTest Execution Results : [TestResult name=LoginPagevalidTest status=SUCCESS method=LoginTest.LoginPagevalidTest()[pri:2, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-23 12:37:58 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:38:09 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:45:14 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:45:30 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:45:30 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 12:45:31 INFO  CusermerBookingTest:20 - Home Page 
+2024-04-23 12:45:36 INFO  CusermerBookingTest:22 - Login the loginpage
+2024-04-23 12:45:44 INFO  CusermerBookingTest:27 - login the cusermer
+2024-04-23 12:45:44 INFO  CusermerBookingTest:29 - Login page apprear
+2024-04-23 12:45:46 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 12:45:46 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:45:56 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:48:32 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:49:14 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:49:14 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 12:49:14 INFO  CusermerBookingTest:20 - Home Page 
+2024-04-23 12:49:15 INFO  CusermerBookingTest:22 - Login the loginpage
+2024-04-23 12:49:19 INFO  CusermerBookingTest:27 - login the cusermer
+2024-04-23 12:49:19 INFO  CusermerBookingTest:29 - Login page apprear
+2024-04-23 12:49:20 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 12:49:20 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:49:20 INFO  TestBase:52 - Browser Closed
+2024-04-23 12:51:42 INFO  TestBase:28 - Initiate Browser
+2024-04-23 12:53:07 INFO  TestBase:34 - Browser Initiated
+2024-04-23 12:53:07 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 12:53:10 INFO  CusermerBookingTest:29 - Home Page 
+2024-04-23 12:53:11 INFO  CusermerBookingTest:31 - Login the loginpage
+2024-04-23 12:53:26 INFO  CusermerBookingTest:36 - login the cusermer
+2024-04-23 12:53:27 INFO  CusermerBookingTest:38 - Login page apprear
+2024-04-23 12:53:34 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 12:53:34 INFO  TestBase:50 - Closing Browser
+2024-04-23 12:53:34 INFO  TestBase:52 - Browser Closed
+2024-04-23 13:55:08 INFO  TestBase:28 - Initiate Browser
+2024-04-23 13:55:42 INFO  TestBase:34 - Browser Initiated
+2024-04-23 13:55:42 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 13:56:38 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 13:56:38 INFO  TestBase:50 - Closing Browser
+2024-04-23 13:56:38 INFO  TestBase:52 - Browser Closed
+2024-04-23 13:57:49 INFO  TestBase:28 - Initiate Browser
+2024-04-23 13:58:07 INFO  TestBase:34 - Browser Initiated
+2024-04-23 13:58:07 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 13:58:08 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 13:58:08 INFO  TestBase:50 - Closing Browser
+2024-04-23 13:58:08 INFO  TestBase:52 - Browser Closed
+2024-04-23 14:00:29 INFO  TestBase:28 - Initiate Browser
+2024-04-23 14:00:51 INFO  TestBase:34 - Browser Initiated
+2024-04-23 14:00:51 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 14:00:54 INFO  CusermerBookingTest:29 - Home Page 
+2024-04-23 14:00:55 INFO  CusermerBookingTest:31 - Login the loginpage
+2024-04-23 14:01:05 INFO  CusermerBookingTest:36 - login the cusermer
+2024-04-23 14:01:06 INFO  CusermerBookingTest:38 - Login page apprear
+2024-04-23 14:01:06 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 14:01:06 INFO  TestBase:50 - Closing Browser
+2024-04-23 14:01:06 INFO  TestBase:52 - Browser Closed
+2024-04-23 22:40:31 INFO  TestBase:28 - Initiate Browser
+2024-04-23 22:40:40 INFO  TestBase:34 - Browser Initiated
+2024-04-23 22:40:40 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 22:40:47 INFO  CusermerBookingTest:29 - Home Page 
+2024-04-23 22:40:48 INFO  CusermerBookingTest:31 - Login the loginpage
+2024-04-23 22:40:51 INFO  CusermerBookingTest:36 - login the cusermer
+2024-04-23 22:40:51 INFO  CusermerBookingTest:38 - Login page apprear
+2024-04-23 22:40:52 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 22:40:52 INFO  TestBase:50 - Closing Browser
+2024-04-23 22:40:52 INFO  TestBase:52 - Browser Closed
+2024-04-23 22:41:42 INFO  TestBase:28 - Initiate Browser
+2024-04-23 22:41:47 INFO  TestBase:34 - Browser Initiated
+2024-04-23 22:41:47 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 22:41:48 INFO  CusermerBookingTest:29 - Home Page 
+2024-04-23 22:41:49 INFO  CusermerBookingTest:31 - Login the loginpage
+2024-04-23 22:41:51 INFO  CusermerBookingTest:36 - login the cusermer
+2024-04-23 22:41:51 INFO  CusermerBookingTest:38 - Login page apprear
+2024-04-23 22:41:53 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 22:41:53 INFO  TestBase:50 - Closing Browser
+2024-04-23 22:41:53 INFO  TestBase:52 - Browser Closed
+2024-04-23 22:42:46 INFO  TestBase:28 - Initiate Browser
+2024-04-23 22:42:51 INFO  TestBase:34 - Browser Initiated
+2024-04-23 22:42:51 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 22:43:03 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 22:43:03 INFO  TestBase:50 - Closing Browser
+2024-04-23 22:43:03 INFO  TestBase:52 - Browser Closed
+2024-04-23 22:43:45 INFO  TestBase:28 - Initiate Browser
+2024-04-23 22:43:52 INFO  TestBase:34 - Browser Initiated
+2024-04-23 22:43:52 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 22:44:01 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 22:44:01 INFO  TestBase:50 - Closing Browser
+2024-04-23 22:44:01 INFO  TestBase:52 - Browser Closed
+2024-04-23 22:44:59 INFO  TestBase:28 - Initiate Browser
+2024-04-23 22:45:10 INFO  TestBase:34 - Browser Initiated
+2024-04-23 22:45:10 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 22:45:31 INFO  CusermerBookingTest:31 - Login the loginpage
+2024-04-23 22:45:40 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 22:45:40 INFO  TestBase:50 - Closing Browser
+2024-04-23 22:45:40 INFO  TestBase:52 - Browser Closed
+2024-04-23 22:47:07 INFO  TestBase:28 - Initiate Browser
+2024-04-23 22:47:17 INFO  TestBase:34 - Browser Initiated
+2024-04-23 22:47:17 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 22:47:31 INFO  CusermerBookingTest:31 - Login the loginpage
+2024-04-23 22:47:42 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 22:47:42 INFO  TestBase:50 - Closing Browser
+2024-04-23 22:47:42 INFO  TestBase:52 - Browser Closed
+2024-04-23 22:49:18 INFO  TestBase:28 - Initiate Browser
+2024-04-23 22:49:23 INFO  TestBase:34 - Browser Initiated
+2024-04-23 22:49:23 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 22:49:28 INFO  CusermerBookingTest:31 - Login the loginpage
+2024-04-23 22:49:32 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 22:49:32 INFO  TestBase:50 - Closing Browser
+2024-04-23 22:49:32 INFO  TestBase:52 - Browser Closed
+2024-04-23 22:54:05 INFO  TestBase:28 - Initiate Browser
+2024-04-23 22:54:22 INFO  TestBase:34 - Browser Initiated
+2024-04-23 22:54:22 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 22:54:37 INFO  CusermerBookingTest:28 - Cusermer Register done
+2024-04-23 22:54:44 INFO  CusermerBookingTest:33 - login the cusermer
+2024-04-23 22:54:44 INFO  CusermerBookingTest:35 - Login page apprear
+2024-04-23 22:54:44 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 22:54:44 INFO  TestBase:50 - Closing Browser
+2024-04-23 22:54:44 INFO  TestBase:52 - Browser Closed
+2024-04-23 23:02:23 INFO  TestBase:28 - Initiate Browser
+2024-04-23 23:02:30 INFO  TestBase:34 - Browser Initiated
+2024-04-23 23:02:30 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-23 23:02:40 INFO  CusermerBookingTest:28 - Cusermer Register done
+2024-04-23 23:02:45 INFO  CusermerBookingTest:33 - login the cusermer
+2024-04-23 23:02:45 INFO  CusermerBookingTest:35 - Login page apprear
+2024-04-23 23:02:49 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-23 23:02:49 INFO  TestBase:50 - Closing Browser
+2024-04-23 23:02:49 INFO  TestBase:52 - Browser Closed
+2024-04-24 00:10:43 INFO  TestBase:28 - Initiate Browser
+2024-04-24 00:10:54 INFO  TestBase:34 - Browser Initiated
+2024-04-24 00:10:54 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 00:11:07 INFO  CusermerBookingTest:28 - Cusermer Register done
+2024-04-24 00:11:11 INFO  CusermerBookingTest:33 - login the cusermer
+2024-04-24 00:11:11 INFO  CusermerBookingTest:35 - Login page apprear
+2024-04-24 00:11:16 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 00:11:16 INFO  TestBase:50 - Closing Browser
+2024-04-24 00:11:16 INFO  TestBase:52 - Browser Closed
+2024-04-24 00:21:04 INFO  TestBase:28 - Initiate Browser
+2024-04-24 00:21:11 INFO  TestBase:34 - Browser Initiated
+2024-04-24 00:21:11 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 00:21:17 INFO  CusermerBookingTest:28 - Cusermer Register done
+2024-04-24 00:21:21 INFO  CusermerBookingTest:33 - login the cusermer
+2024-04-24 00:21:21 INFO  CusermerBookingTest:35 - Login page apprear
+2024-04-24 00:21:22 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 00:21:22 INFO  TestBase:50 - Closing Browser
+2024-04-24 00:21:22 INFO  TestBase:52 - Browser Closed
+2024-04-24 01:11:50 INFO  TestBase:28 - Initiate Browser
+2024-04-24 01:11:56 INFO  TestBase:34 - Browser Initiated
+2024-04-24 01:11:56 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 01:12:17 INFO  CusermerBookingTest:28 - Cusermer Register done
+2024-04-24 01:12:32 INFO  CusermerBookingTest:33 - login the cusermer
+2024-04-24 01:12:33 INFO  CusermerBookingTest:35 - Login page apprear
+2024-04-24 01:12:35 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 01:12:35 INFO  TestBase:50 - Closing Browser
+2024-04-24 01:12:35 INFO  TestBase:52 - Browser Closed
+2024-04-24 02:12:07 INFO  TestBase:28 - Initiate Browser
+2024-04-24 02:12:15 INFO  TestBase:34 - Browser Initiated
+2024-04-24 02:12:15 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 02:12:21 INFO  CusermerBookingTest:28 - Cusermer Register done
+2024-04-24 02:12:24 INFO  CusermerBookingTest:33 - login the cusermer
+2024-04-24 02:12:24 INFO  CusermerBookingTest:35 - Login page apprear
+2024-04-24 02:12:27 INFO  CusermerBookingTest:42 - enter checkoutdate
+2024-04-24 02:12:27 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 02:12:27 INFO  TestBase:50 - Closing Browser
+2024-04-24 02:12:27 INFO  TestBase:52 - Browser Closed
+2024-04-24 02:41:00 INFO  TestBase:28 - Initiate Browser
+2024-04-24 02:41:08 INFO  TestBase:34 - Browser Initiated
+2024-04-24 02:41:08 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 02:41:08 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 02:41:08 INFO  TestBase:50 - Closing Browser
+2024-04-24 02:41:08 INFO  TestBase:52 - Browser Closed
+2024-04-24 02:42:04 INFO  TestBase:28 - Initiate Browser
+2024-04-24 02:42:09 INFO  TestBase:34 - Browser Initiated
+2024-04-24 02:42:09 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 02:42:13 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 02:42:13 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 02:42:19 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 02:42:19 INFO  CusermerBookingTest:45 - Select room
+2024-04-24 02:42:19 INFO  CusermerBookingTest:47 - Enter adults
+2024-04-24 02:42:20 INFO  CusermerBookingTest:49 - Enter childern
+2024-04-24 02:42:20 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 02:42:20 INFO  TestBase:50 - Closing Browser
+2024-04-24 02:42:20 INFO  TestBase:52 - Browser Closed
+2024-04-24 02:44:59 INFO  TestBase:28 - Initiate Browser
+2024-04-24 02:45:09 INFO  TestBase:34 - Browser Initiated
+2024-04-24 02:45:09 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 02:45:17 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 02:45:17 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 02:45:20 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 02:45:21 INFO  CusermerBookingTest:45 - Select room
+2024-04-24 02:45:21 INFO  CusermerBookingTest:47 - Enter adults
+2024-04-24 02:45:21 INFO  CusermerBookingTest:49 - Enter childern
+2024-04-24 02:45:24 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 02:45:24 INFO  TestBase:50 - Closing Browser
+2024-04-24 02:45:24 INFO  TestBase:52 - Browser Closed
+2024-04-24 02:47:15 INFO  TestBase:28 - Initiate Browser
+2024-04-24 02:47:20 INFO  TestBase:34 - Browser Initiated
+2024-04-24 02:47:20 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 02:47:41 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 02:47:41 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 02:47:47 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 02:47:47 INFO  CusermerBookingTest:45 - Select room
+2024-04-24 02:47:48 INFO  CusermerBookingTest:47 - Enter adults
+2024-04-24 02:47:48 INFO  CusermerBookingTest:49 - Enter childern
+2024-04-24 02:47:53 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 02:47:53 INFO  TestBase:50 - Closing Browser
+2024-04-24 02:47:53 INFO  TestBase:52 - Browser Closed
+2024-04-24 03:00:08 INFO  TestBase:28 - Initiate Browser
+2024-04-24 03:00:35 INFO  TestBase:34 - Browser Initiated
+2024-04-24 03:00:35 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 03:00:46 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 03:00:46 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 03:00:49 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 03:00:49 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 03:00:49 INFO  TestBase:50 - Closing Browser
+2024-04-24 03:00:49 INFO  TestBase:52 - Browser Closed
+2024-04-24 03:02:04 INFO  TestBase:28 - Initiate Browser
+2024-04-24 03:02:12 INFO  TestBase:34 - Browser Initiated
+2024-04-24 03:02:12 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 03:02:24 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 03:02:24 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 03:02:30 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 03:02:30 INFO  CusermerBookingTest:45 - Select room
+2024-04-24 03:02:31 INFO  CusermerBookingTest:47 - Enter adults
+2024-04-24 03:02:31 INFO  CusermerBookingTest:49 - Enter childern
+2024-04-24 03:02:36 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 03:02:36 INFO  TestBase:50 - Closing Browser
+2024-04-24 03:02:36 INFO  TestBase:52 - Browser Closed
+2024-04-24 03:03:19 INFO  TestBase:28 - Initiate Browser
+2024-04-24 03:03:24 INFO  TestBase:34 - Browser Initiated
+2024-04-24 03:03:24 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 03:03:31 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 03:03:31 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 03:03:34 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 03:03:35 INFO  CusermerBookingTest:46 - Enter adults
+2024-04-24 03:03:35 INFO  CusermerBookingTest:48 - Enter childern
+2024-04-24 03:03:35 INFO  CusermerBookingTest:50 - Select room
+2024-04-24 03:03:41 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 03:03:41 INFO  TestBase:50 - Closing Browser
+2024-04-24 03:03:41 INFO  TestBase:52 - Browser Closed
+2024-04-24 03:12:17 INFO  TestBase:28 - Initiate Browser
+2024-04-24 03:12:27 INFO  TestBase:34 - Browser Initiated
+2024-04-24 03:12:27 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 03:12:36 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 03:12:36 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 03:12:39 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 03:12:39 INFO  CusermerBookingTest:45 - Select room
+2024-04-24 03:12:39 INFO  CusermerBookingTest:47 - Enter adults
+2024-04-24 03:12:39 INFO  CusermerBookingTest:49 - Enter childern
+2024-04-24 03:12:42 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 03:12:42 INFO  TestBase:50 - Closing Browser
+2024-04-24 03:12:42 INFO  TestBase:52 - Browser Closed
+2024-04-24 03:23:39 INFO  TestBase:28 - Initiate Browser
+2024-04-24 03:23:48 INFO  TestBase:34 - Browser Initiated
+2024-04-24 03:23:48 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 03:24:01 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 03:24:01 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 03:24:07 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 03:24:08 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 03:24:08 INFO  TestBase:50 - Closing Browser
+2024-04-24 03:24:08 INFO  TestBase:52 - Browser Closed
+2024-04-24 03:25:48 INFO  TestBase:28 - Initiate Browser
+2024-04-24 03:25:55 INFO  TestBase:34 - Browser Initiated
+2024-04-24 03:25:55 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 03:26:03 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 03:26:03 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 03:26:06 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 03:26:06 INFO  CusermerBookingTest:45 - Select room
+2024-04-24 03:26:06 INFO  CusermerBookingTest:47 - Enter adults
+2024-04-24 03:26:06 INFO  CusermerBookingTest:49 - Enter childern
+2024-04-24 03:26:08 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 03:26:08 INFO  TestBase:50 - Closing Browser
+2024-04-24 03:26:08 INFO  TestBase:52 - Browser Closed
+2024-04-24 03:47:33 INFO  TestBase:28 - Initiate Browser
+2024-04-24 03:47:39 INFO  TestBase:34 - Browser Initiated
+2024-04-24 03:47:39 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 03:47:45 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 03:47:45 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 03:47:47 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 03:47:47 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 03:47:47 INFO  TestBase:50 - Closing Browser
+2024-04-24 03:47:47 INFO  TestBase:52 - Browser Closed
+2024-04-24 03:58:30 INFO  TestBase:28 - Initiate Browser
+2024-04-24 03:58:34 INFO  TestBase:34 - Browser Initiated
+2024-04-24 03:58:34 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 03:58:43 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 03:58:43 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 03:58:49 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 03:58:50 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 03:58:50 INFO  TestBase:50 - Closing Browser
+2024-04-24 03:58:50 INFO  TestBase:52 - Browser Closed
+2024-04-24 04:02:29 INFO  TestBase:28 - Initiate Browser
+2024-04-24 04:02:34 INFO  TestBase:34 - Browser Initiated
+2024-04-24 04:02:34 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 04:02:38 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 04:02:39 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 04:02:40 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 04:02:40 INFO  CusermerBookingTest:45 - Select room
+2024-04-24 04:02:40 INFO  CusermerBookingTest:47 - Enter adults
+2024-04-24 04:02:41 INFO  CusermerBookingTest:49 - Enter childern
+2024-04-24 04:02:46 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 04:02:46 INFO  TestBase:50 - Closing Browser
+2024-04-24 04:02:46 INFO  TestBase:52 - Browser Closed
+2024-04-24 04:12:00 INFO  TestBase:28 - Initiate Browser
+2024-04-24 04:12:07 INFO  TestBase:34 - Browser Initiated
+2024-04-24 04:12:07 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 04:12:19 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 04:12:20 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 04:12:25 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 04:12:26 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 04:12:26 INFO  TestBase:50 - Closing Browser
+2024-04-24 04:12:26 INFO  TestBase:52 - Browser Closed
+2024-04-24 04:14:42 INFO  TestBase:28 - Initiate Browser
+2024-04-24 04:14:51 INFO  TestBase:34 - Browser Initiated
+2024-04-24 04:14:51 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 04:15:19 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 04:15:19 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 04:15:23 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 04:15:23 INFO  CusermerBookingTest:45 - Select room
+2024-04-24 04:15:23 INFO  CusermerBookingTest:47 - Enter adults
+2024-04-24 04:15:23 INFO  CusermerBookingTest:49 - Enter childern
+2024-04-24 04:15:31 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 04:15:31 INFO  TestBase:50 - Closing Browser
+2024-04-24 04:15:31 INFO  TestBase:52 - Browser Closed
+2024-04-24 04:50:54 INFO  TestBase:28 - Initiate Browser
+2024-04-24 04:50:59 INFO  TestBase:34 - Browser Initiated
+2024-04-24 04:50:59 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 04:51:09 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 04:51:09 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 04:51:14 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 04:51:15 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 04:51:15 INFO  TestBase:50 - Closing Browser
+2024-04-24 04:51:15 INFO  TestBase:52 - Browser Closed
+2024-04-24 04:51:53 INFO  TestBase:28 - Initiate Browser
+2024-04-24 04:51:59 INFO  TestBase:34 - Browser Initiated
+2024-04-24 04:51:59 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 04:52:24 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 04:52:24 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 04:52:28 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 04:52:28 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 04:52:28 INFO  TestBase:50 - Closing Browser
+2024-04-24 04:52:28 INFO  TestBase:52 - Browser Closed
+2024-04-24 04:56:46 INFO  TestBase:28 - Initiate Browser
+2024-04-24 04:56:46 INFO  TestBase:28 - Initiate Browser
+2024-04-24 04:56:58 INFO  TestBase:34 - Browser Initiated
+2024-04-24 04:56:58 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 04:56:58 INFO  TestBase:34 - Browser Initiated
+2024-04-24 04:56:58 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 04:57:42 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 04:57:42 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 04:57:42 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 04:57:42 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 04:57:50 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 04:57:50 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 04:57:51 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 04:57:51 INFO  TestBase:50 - Closing Browser
+2024-04-24 04:57:51 INFO  TestBase:52 - Browser Closed
+2024-04-24 04:57:56 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=FAILURE method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 04:57:56 INFO  TestBase:50 - Closing Browser
+2024-04-24 04:57:56 INFO  TestBase:52 - Browser Closed
+2024-04-24 05:01:16 INFO  TestBase:28 - Initiate Browser
+2024-04-24 05:01:23 INFO  TestBase:34 - Browser Initiated
+2024-04-24 05:01:23 INFO  TestBase:44 - Test name: RoomBooking
+2024-04-24 05:01:33 INFO  CusermerBookingTest:34 - login the cusermer
+2024-04-24 05:01:33 INFO  CusermerBookingTest:36 - Login page apprear
+2024-04-24 05:01:39 INFO  CusermerBookingTest:43 - enter checkoutdate
+2024-04-24 05:01:39 INFO  CusermerBookingTest:45 - Select room
+2024-04-24 05:01:39 INFO  CusermerBookingTest:47 - Enter adults
+2024-04-24 05:01:40 INFO  CusermerBookingTest:49 - Enter childern
+2024-04-24 05:01:44 INFO  TestBase:57 - Executed test case name:RoomBooking Execution Results : [TestResult name=RoomBooking status=SUCCESS method=CusermerBookingTest.RoomBooking()[pri:1, instance:com.abi.test.pageobject.Tests.CusermerBookingTest@66fdec9] output={null}]
+2024-04-24 05:01:44 INFO  TestBase:50 - Closing Browser
+2024-04-24 05:01:44 INFO  TestBase:52 - Browser Closed
+2024-04-25 19:40:53 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 19:41:20 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 19:41:20 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 19:41:21 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 19:41:21 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 19:41:23 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 19:41:24 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=SUCCESS method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 19:41:24 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 19:41:25 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 19:42:03 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 19:42:15 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 19:42:15 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 19:42:15 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 19:42:15 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 19:42:17 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 19:42:17 INFO  RoomTypeTest:31 - Click the AdminHomeBannerPage
+2024-04-25 19:42:17 INFO  RoomTypeTest:33 - Click the AddBanner in AdminHomePage
+2024-04-25 19:42:28 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=FAILURE method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 19:42:28 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 19:42:29 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 19:42:43 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 19:42:55 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 19:42:55 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 19:42:55 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 19:42:55 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 19:42:58 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 19:42:58 INFO  RoomTypeTest:31 - Click the AdminHomeBannerPage
+2024-04-25 19:42:58 INFO  RoomTypeTest:33 - Click the AddBanner in AdminHomePage
+2024-04-25 19:43:08 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=FAILURE method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 19:43:08 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 19:43:10 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 19:43:25 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 19:43:36 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 19:43:36 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 19:43:37 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 19:43:37 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 19:43:39 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 19:43:40 INFO  RoomTypeTest:31 - Click the AdminHomeBannerPage
+2024-04-25 19:43:40 INFO  RoomTypeTest:33 - Click the AddBanner in AdminHomePage
+2024-04-25 19:43:50 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=FAILURE method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 19:43:50 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 19:43:51 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 20:04:40 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 20:04:56 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 20:04:56 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 20:04:56 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 20:04:56 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 20:04:58 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 20:05:08 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=FAILURE method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 20:05:08 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 20:05:09 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 20:21:38 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 20:21:49 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 20:21:49 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 20:21:49 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 20:21:49 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 20:21:51 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 20:21:52 INFO  RoomTypeTest:31 - Click the RoomType Page
+2024-04-25 20:22:02 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=FAILURE method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 20:22:02 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 20:22:03 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 20:23:55 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 20:24:08 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 20:24:08 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 20:24:08 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 20:24:08 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 20:24:10 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 20:24:10 INFO  RoomTypeTest:31 - Click the RoomType Page
+2024-04-25 20:24:11 INFO  RoomTypeTest:33 - Click the AddBanner in AdminHomePage
+2024-04-25 20:24:11 INFO  RoomTypeTest:36 - Add Banner page appear
+2024-04-25 20:24:11 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=SUCCESS method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 20:24:11 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 20:24:12 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 20:46:25 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 20:46:32 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 20:46:32 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 20:46:33 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=FAILURE method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 20:46:33 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 20:46:34 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 20:48:16 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 20:48:28 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 20:48:28 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 20:48:30 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 20:48:30 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 20:48:42 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 20:48:43 INFO  RoomTypeTest:31 - Click the RoomType Page
+2024-04-25 20:48:45 INFO  RoomTypeTest:33 - Click the AddRoomType in AdminHomePage
+2024-04-25 20:48:46 INFO  RoomTypeTest:36 - Enter Room Title
+2024-04-25 20:48:46 INFO  RoomTypeTest:38 - Enter Room Price
+2024-04-25 20:48:46 INFO  RoomTypeTest:40 - Enter Room Capacity
+2024-04-25 20:48:47 INFO  RoomTypeTest:42 - Enter Room Detail
+2024-04-25 20:48:47 INFO  RoomTypeTest:44 - Enter Room Iamge
+2024-04-25 20:49:01 INFO  RoomTypeTest:46 - Image Added
+2024-04-25 20:49:01 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=SUCCESS method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 20:49:01 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 20:49:03 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 20:49:19 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 20:49:37 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 20:49:37 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 20:49:38 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 20:49:38 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 20:49:43 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 20:49:43 INFO  RoomTypeTest:31 - Click the RoomType Page
+2024-04-25 20:49:45 INFO  RoomTypeTest:33 - Click the AddRoomType in AdminHomePage
+2024-04-25 20:49:45 INFO  RoomTypeTest:36 - Enter Room Title
+2024-04-25 20:49:45 INFO  RoomTypeTest:38 - Enter Room Price
+2024-04-25 20:49:45 INFO  RoomTypeTest:40 - Enter Room Capacity
+2024-04-25 20:49:46 INFO  RoomTypeTest:42 - Enter Room Detail
+2024-04-25 20:49:46 INFO  RoomTypeTest:44 - Enter Room Iamge
+2024-04-25 20:50:02 INFO  RoomTypeTest:46 - Image Added
+2024-04-25 20:50:02 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=SUCCESS method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 20:50:02 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 20:50:03 INFO  AdminTestBase:51 - Browser Closed
+2024-04-25 20:51:26 INFO  AdminTestBase:27 - Initiate Browser
+2024-04-25 20:52:16 INFO  AdminTestBase:33 - Browser Initiated
+2024-04-25 20:52:16 INFO  AdminTestBase:43 - Test name: RoomTypeAddTest
+2024-04-25 20:52:16 INFO  RoomTypeTest:24 - Input the email
+2024-04-25 20:52:16 INFO  RoomTypeTest:26 - Input the Password
+2024-04-25 20:52:49 INFO  RoomTypeTest:28 - Login the Admin
+2024-04-25 20:52:49 INFO  RoomTypeTest:31 - Click the RoomType Page
+2024-04-25 20:53:19 INFO  RoomTypeTest:33 - Click the AddRoomType in AdminHomePage
+2024-04-25 20:53:19 INFO  RoomTypeTest:36 - Enter Room Title
+2024-04-25 20:53:20 INFO  RoomTypeTest:38 - Enter Room Price
+2024-04-25 20:53:20 INFO  RoomTypeTest:40 - Enter Room Capacity
+2024-04-25 20:53:20 INFO  RoomTypeTest:42 - Enter Room Detail
+2024-04-25 20:53:20 INFO  RoomTypeTest:44 - Enter Room Iamge
+2024-04-25 20:53:50 INFO  RoomTypeTest:46 - Image Added
+2024-04-25 20:53:50 INFO  AdminTestBase:56 - Executed test case name:RoomTypeAddTest Execution Results : [TestResult name=RoomTypeAddTest status=SUCCESS method=RoomTypeTest.RoomTypeAddTest()[pri:1, instance:com.abi.test.pageobject.Tests.RoomTypeTest@66fdec9] output={null}]
+2024-04-25 20:53:50 INFO  AdminTestBase:49 - Closing Browser
+2024-04-25 20:53:52 INFO  AdminTestBase:51 - Browser Closed
+2024-04-26 10:29:13 INFO  TestBase:28 - Initiate Browser
+2024-04-26 10:29:18 INFO  TestBase:34 - Browser Initiated
+2024-04-26 10:29:19 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-26 10:29:19 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=FAILURE method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-26 10:29:19 INFO  TestBase:50 - Closing Browser
+2024-04-26 10:29:19 INFO  TestBase:52 - Browser Closed
+2024-04-26 10:29:19 INFO  TestBase:28 - Initiate Browser
+2024-04-26 10:29:33 INFO  TestBase:34 - Browser Initiated
+2024-04-26 10:29:33 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-26 10:29:33 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name=LoginPageTest status=FAILURE method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-26 10:29:33 INFO  TestBase:50 - Closing Browser
+2024-04-26 10:29:33 INFO  TestBase:52 - Browser Closed
+2024-04-26 10:29:33 INFO  TestBase:28 - Initiate Browser
+2024-04-26 10:29:42 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-26 10:29:42 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-26 10:29:42 INFO  TestBase:50 - Closing Browser
+2024-04-26 10:29:42 INFO  TestBase:52 - Browser Closed
+2024-04-26 10:29:42 INFO  TestBase:28 - Initiate Browser
+2024-04-26 10:29:50 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-26 10:29:50 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-26 10:29:50 INFO  TestBase:50 - Closing Browser
+2024-04-26 10:29:50 INFO  TestBase:52 - Browser Closed
+2024-04-26 10:29:50 INFO  TestBase:28 - Initiate Browser
+2024-04-26 10:29:57 INFO  TestBase:44 - Test name: LoginPageTest
+2024-04-26 10:29:57 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
+2024-04-26 10:29:57 INFO  TestBase:50 - Closing Browser
+2024-04-26 10:29:57 INFO  TestBase:52 - Browser Closed

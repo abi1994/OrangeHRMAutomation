@@ -8,61 +8,78 @@ import org.openqa.selenium.support.ui.Select;
 public class AdminDashBoardPage extends AdminPageBase {
     private static final Logger LOGGER =Logger.getLogger(AdminDashBoardPage.class);
 
-    private static By Heading= By.xpath("//*[@id=\"accordionSidebar\"]/a/div[2]");
-    private static By DashboardPage =By.xpath("//*[@id=\"accordionSidebar\"]/li[1]/a/span");
-    private static By HomePageBannersPage = By.id("//*[@id=\"accordionSidebar\"]/li[2]/a/span");
-    private static By RoomTypePage =By.xpath("//*[@id=\"accordionSidebar\"]/li[3]/a/span");
-    private static By RoomPage =By.xpath("//*[@id=\"accordionSidebar\"]/li[4]/a");
-    private static By CustomerPage =By.xpath("//*[@id=\"accordionSidebar\"]/li[5]/a/span");
-    private static By BookingsPage =By.xpath("//*[@id=\"accordionSidebar\"]/li[6]/a");
-    private static By ServicePage =By.xpath("//*[@id=\"accordionSidebar\"]/li[7]/a");
-    private static By LogoutPage =By.xpath("//*[@id=\"accordionSidebar\"]/li[8]/a");
+    private static By Heading= By.xpath("//h1[@class='h3 mb-0 text-gray-800']");
+    private static By DashboardPage =By.xpath("//div[@class='sidebar-brand-text mx-3']");
+    private static By HomePageBannersPage = By.xpath("//span[text()='HomePage Banners']/ancestor::a");
+    private static By HomePageBannerAddnew =By.xpath("//a[@class='collapse-item'][text()='Add New']");
+    private static By ViewHomePageBanner =By.linkText("View All");
+    private static By RoomTypePage =By.linkText("RoomType");
+    private static By AddRoomTypePage =By.linkText("Add New");
+    private static By ViewRoomTypePage =By.linkText("View All");
+    private static By RoomPage =By.linkText("Rooms");
+    private static By AddRoomPage =By.linkText("View All");
+    private static By ViewRoomPage =By.linkText("View All");
+    private static By CustomerPage =By.linkText("Customer");
+    private static By AddCustomerPage =By.linkText("View All");
+    private static By ViewCustomerPage =By.linkText("View All");
+    private static By BookingsPage =By.linkText("Bookings");
+    private static By ServicePage =By.linkText("Service");
+    private static By LogoutPage =By.linkText("Logout");
     
 
     public static Boolean IsDisplayHeading(){
         return getDriver().findElement(Heading).isDisplayed();
     }
-    public static Boolean IsDisplayLeaveAssine(){
+    public static Boolean IsDisplayDashBoard(){
         return getDriver().findElement(DashboardPage).isDisplayed();
     }
     public static void ClickDashboardPage(){
         getDriver().findElement(DashboardPage).click();
     }
-    public static void InputEmployeeName(String name){
-         getDriver().findElement(HomePageBannersPage).sendKeys(name);
+    public static void ClickHomeBanner(){
+         getDriver().findElement(HomePageBannersPage).click();
     }
-    public static void ClearInputEmployeeName(){
-        getDriver().findElement(HomePageBannersPage).clear();
+    public static void ClickAddHomeBanner(){
+        getDriver().findElement(HomePageBannerAddnew).click();
+    } 
+    public static void ClickViewHomeBanner(){
+        getDriver().findElement(ViewHomePageBanner).click();
+    } 
+    public static void ClickRoomType(){
+        getDriver().findElement(RoomTypePage).click();
     }
-    public static String getSelectedOption(){
-        Select dropDownOption =new Select(getDriver().findElement(RoomTypePage));
-        return dropDownOption.getFirstSelectedOption().getText();
+    public static void ClickAddRoomType(){
+        getDriver().findElement(AddRoomTypePage).click();
     }
-    public static void setDropOption(String option){
-        Select dropDownOption =new Select(getDriver().findElement(RoomTypePage));
-        dropDownOption.selectByVisibleText(option);
+    public static void ClickViewRoomType(){
+        getDriver().findElement(ViewRoomTypePage).click();
     }
-    public static void ClickBalanceLink(){
+    public static void ClickRooms(){
         getDriver().findElement(RoomPage).click();
     }
-    public static boolean IsDisplayBalanceBox(){
-        return getDriver().findElement(CustomerPage).isDisplayed();
+    public static void ClickAddRooms(){
+        getDriver().findElement(AddRoomPage).click();
     }
-    public static void ClickOkBalanceBox(){
-        getDriver().findElement(ServicePage).click();
+    public static void ClickViewRooms(){
+        getDriver().findElement(ViewRoomPage).click();
     }
-    public static void ClickBalanceBoxclose(){
+    public static void ClickCustermer(){
+        getDriver().findElement(CustomerPage).click();
+    }
+    public static void ClickAddCustermer(){
+        getDriver().findElement(AddCustomerPage).click();
+    }
+    public static void ClickViewCustermer(){
+        getDriver().findElement(ViewCustomerPage).click();
+    }
+    public static void ClickBookingsPage(){
         getDriver().findElement(BookingsPage).click();
     }
-    public static void SendLeaveFrom(String from){
-        getDriver().findElement(LogoutPage).sendKeys(from);
+    public static void ClickServicePage(){
+        getDriver().findElement(ServicePage).click();
+    }   
+    public static void ClickLogOutPage(){
+        getDriver().findElement(LogoutPage).click();
     }
-    public static void ClearLeaveFrom(){
-        getDriver().findElement(LogoutPage).clear();
-    }
-//	public static char[] ButtonColour() {
-//		getDriver().findElement(DashboardPage).getCssValue(downloadFilepath);
-//		return null;
-//	}
 
 }

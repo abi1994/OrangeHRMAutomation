@@ -4,6 +4,7 @@ import com.abi.test.pageobject.Pages.HomePage;
 import com.abi.test.pageobject.Pages.Login.LoginPage;
 import com.abi.test.pageobject.TestData.LoginInvalidUserDataProvider;
 import com.abi.test.pageobject.TestData.LoginValidUserDataProvider;
+import com.abi.test.pageobject.Utils.Constans;
 import com.abi.test.pageobject.Utils.TestBase;
 import org.apache.log4j.Logger;
 import org.testng.annotations.Test;
@@ -26,17 +27,18 @@ public class LoginTest extends TestBase {
         softAssert.assertAll();
        
     }
-    @Test(priority = 2,dataProvider = "ValidUserDetails",dataProviderClass = LoginValidUserDataProvider.class)
-    public void LoginPagevalidTest(String username ,String Password ){
+    @Test(priority = 2)
+    public void LoginPagevalidTest( ){
     	 softAssert =new SoftAssert();
          softAssert.assertTrue(HomePage.IsDisplayHeading(), "Hotel Booking");
          LOGGER.info("Home Page ");
          HomePage.ClickLoginPage();
          LOGGER.info("Login the loginpage");
          softAssert.assertTrue(LoginPage.IsDisplayLoginPage(),"This is not Login Page ");
-         LoginPage.InputUserName(username);
-         LoginPage.InputPasswordName(Password);
+         LoginPage.InputUserName(Constans.CUSTERMERNAME);
+         LoginPage.InputPasswordName(Constans.CUSPASSWORD);
          LoginPage.Clicksubmit();
+         LOGGER.info("login the cusermer");
          softAssert.assertTrue(LoginPage.IsDisplayLogOut(),"Logout");
          softAssert.assertAll();
     }

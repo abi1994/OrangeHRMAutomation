@@ -3,7 +3,7 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.abi.test.pageobject.Tests.CusermerBookingTest">
+      <class name="com.abi.test.pageobject.Tests.LoginTest">
         <methods>
           <include name="loadBrowser"/>
           <include name="beforeMethod"/>
@@ -11,9 +11,9 @@
           <include name="beforeTest"/>
           <include name="nameBefore"/>
           <include name="afterMethod"/>
-          <include name="RoomBooking"/>
+          <include name="LoginPageTest" invocation-numbers="0 1"/>
         </methods>
-      </class> <!-- com.abi.test.pageobject.Tests.CusermerBookingTest -->
+      </class> <!-- com.abi.test.pageobject.Tests.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
