@@ -1443,3 +1443,63 @@
 2024-04-26 10:29:57 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@2a640157] output={null}]
 2024-04-26 10:29:57 INFO  TestBase:50 - Closing Browser
 2024-04-26 10:29:57 INFO  TestBase:52 - Browser Closed
+2024-07-20 14:40:09 INFO  TestBase:28 - Initiate Browser
+2024-07-20 14:40:12 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-20 14:40:12 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-20 14:40:12 INFO  TestBase:50 - Closing Browser
+2024-07-20 14:40:12 INFO  TestBase:52 - Browser Closed
+2024-07-20 14:40:12 INFO  TestBase:28 - Initiate Browser
+2024-07-20 14:40:15 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-20 14:40:15 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-20 14:40:15 INFO  TestBase:50 - Closing Browser
+2024-07-20 14:40:15 INFO  TestBase:52 - Browser Closed
+2024-07-20 14:40:15 INFO  TestBase:28 - Initiate Browser
+2024-07-20 14:40:17 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-20 14:40:17 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-20 14:40:17 INFO  TestBase:50 - Closing Browser
+2024-07-20 14:40:17 INFO  TestBase:52 - Browser Closed
+2024-07-20 14:40:17 INFO  TestBase:28 - Initiate Browser
+2024-07-20 14:40:19 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-20 14:40:19 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-20 14:40:19 INFO  TestBase:50 - Closing Browser
+2024-07-20 14:40:19 INFO  TestBase:52 - Browser Closed
+2024-07-20 14:40:19 INFO  TestBase:28 - Initiate Browser
+2024-07-20 14:40:21 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-20 14:40:21 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-20 14:40:21 INFO  TestBase:50 - Closing Browser
+2024-07-20 14:40:21 INFO  TestBase:52 - Browser Closed
+2024-07-20 14:40:21 INFO  TestBase:28 - Initiate Browser
+2024-07-20 14:40:23 INFO  TestBase:44 - Test name: LoginPagevalidTest
+2024-07-20 14:40:23 INFO  TestBase:57 - Executed test case name:LoginPagevalidTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPagevalidTest()[pri:2, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-20 14:40:23 INFO  TestBase:50 - Closing Browser
+2024-07-20 14:40:23 INFO  TestBase:52 - Browser Closed
+2024-07-21 11:42:28 INFO  TestBase:28 - Initiate Browser
+2024-07-21 11:42:30 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-21 11:42:30 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-21 11:42:30 INFO  TestBase:50 - Closing Browser
+2024-07-21 11:42:30 INFO  TestBase:52 - Browser Closed
+2024-07-21 11:42:30 INFO  TestBase:28 - Initiate Browser
+2024-07-21 11:42:32 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-21 11:42:32 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-21 11:42:32 INFO  TestBase:50 - Closing Browser
+2024-07-21 11:42:32 INFO  TestBase:52 - Browser Closed
+2024-07-21 11:42:32 INFO  TestBase:28 - Initiate Browser
+2024-07-21 11:42:34 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-21 11:42:34 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-21 11:42:34 INFO  TestBase:50 - Closing Browser
+2024-07-21 11:42:34 INFO  TestBase:52 - Browser Closed
+2024-07-21 11:42:34 INFO  TestBase:28 - Initiate Browser
+2024-07-21 11:42:36 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-21 11:42:36 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-21 11:42:36 INFO  TestBase:50 - Closing Browser
+2024-07-21 11:42:36 INFO  TestBase:52 - Browser Closed
+2024-07-21 11:42:36 INFO  TestBase:28 - Initiate Browser
+2024-07-21 11:42:38 INFO  TestBase:44 - Test name: LoginPageTest
+2024-07-21 11:42:38 INFO  TestBase:57 - Executed test case name:LoginPageTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPageTest(java.lang.String, java.lang.String)[pri:1, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-21 11:42:38 INFO  TestBase:50 - Closing Browser
+2024-07-21 11:42:38 INFO  TestBase:52 - Browser Closed
+2024-07-21 11:42:38 INFO  TestBase:28 - Initiate Browser
+2024-07-21 11:42:40 INFO  TestBase:44 - Test name: LoginPagevalidTest
+2024-07-21 11:42:40 INFO  TestBase:57 - Executed test case name:LoginPagevalidTest Execution Results : [TestResult name={null} status=CREATED method=LoginTest.LoginPagevalidTest()[pri:2, instance:com.abi.test.pageobject.Tests.LoginTest@ebaa6cb] output={null}]
+2024-07-21 11:42:40 INFO  TestBase:50 - Closing Browser
+2024-07-21 11:42:40 INFO  TestBase:52 - Browser Closed

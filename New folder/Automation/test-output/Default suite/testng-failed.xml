@@ -11,7 +11,8 @@
           <include name="beforeTest"/>
           <include name="nameBefore"/>
           <include name="afterMethod"/>
-          <include name="LoginPageTest" invocation-numbers="0 1"/>
+          <include name="LoginPagevalidTest"/>
+          <include name="LoginPageTest"/>
         </methods>
       </class> <!-- com.abi.test.pageobject.Tests.LoginTest -->
     </classes>
